@@ -16,6 +16,8 @@ TBD
 
 ## Schedule
 
+➡️ _Please note this schedule is subject to change. All assignments listed are due on the Friday of the week they are posted unless otherwise specified._
+
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
@@ -55,9 +57,8 @@ TBD
 | Apr 21 | [Workshop] Technical Interviews | |
 | Apr 26 | [Discussion] Stack Overflow | HW8 |
 | Apr 28 | [Discussion] Security | |
-| May 3  | [Discussion] Automated Software Engineering | Project Report |
-| <tr><th colspan=4> </th></tr> |
-| May 6 | 🏁 Project Demos 📽️ | |
+| May 3  | [Discussion] Automated Software Engineering | Project Final Report |
+| <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🎥 </th></tr> |
+| May 6 | Project Demos | |
 
-_Please note that this schedule is subject to change._
 
