@@ -2,11 +2,19 @@
 
 ### Course Description
 
-TBD
+Software engineering involves the development and maintainance of complex software systems. In this course, students will learn about phases of the software life cycle: requirements, design, implementation, testing, and maintenance. The students will also have an opportunity to work on a project supporting software development tasks, discuss state-of-the-art SE research, and gain the skills and knowledge necessary to succeed as a software engineer in industry. The course will consist of traditional lectures, practical workshops to gain exposure to SE tools and principles, and seminar-style discussions about advanced research topics in software engineering.
 
-### Objectives
+Please see the Course Syllabus for additional information about course logistics and policies.
 
-TBD
+### Learning Objectives
+
+By the end of this course, students should be able to:
+
+* Implement a software system following the software life cycle phases
+* Develop software engineering skills working on a team project
+* Identify processes related to phases of the software lifecycle
+* Explain the differences between software engineering processes
+* Discuss research questions and investigations related to software engineering
 
 ### Course Info
 
@@ -23,7 +31,7 @@ TBD
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 18 | Introduction | HW0 |
 | Jan 20 | Software Process | |
-| Jan 25 | Software Process (2) | HW1 |
+| Jan 25 | Software Process (cont.) | HW1 |
 | Jan 27 | [Workshop] Engineering Basics | |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Feb 1  | Project Management | HW2 |
@@ -33,7 +41,7 @@ TBD
 | <tr><th colspan=3> 🤖 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
 | Feb 15 | [Discussion] Software Engineers | HW3 |
 | Feb 17 | Code Metrics | |
-| Feb 22 | Bots and Code Analysis | Project Proposal Docs |
+| Feb 22 | Development Tools | Project Proposal Docs |
 | Feb 24 | Project Proposal Presentations | |
 | Mar 1  | [Discussion] Debugging | HW4 |
 | Mar 3  | [Discussion] Code Reviews | |
@@ -49,7 +57,7 @@ TBD
 | Mar 29 | Exam Review | |
 | Mar 31 | Midterm Exam | |
 | Apr 5  | Project Workday | |
-| <tr><th colspan=4> 🎤 &nbsp;&nbsp;&nbsp; Industry Discussions &nbsp;&nbsp;&nbsp; 📢 </th></tr>
+| <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👀 </th></tr>
 | Apr 7  | [Discussion] Software Engineering during COVID-19 | |
 | Apr 12 | [Discussion] Productivity and Behavior | HW7 |
 | Apr 14 | [Discussion] Teamwork and Collaboration | |
