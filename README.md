@@ -15,6 +15,7 @@ By the end of this course, students should be able to:
 * Identify processes related to phases of the software lifecycle
 * Explain the differences between software engineering processes
 * Discuss research questions and investigations related to software engineering
+* Write a technical report about a software engineering tool or practice
 
 ### Course Info
 
@@ -61,7 +62,7 @@ By the end of this course, students should be able to:
 | Apr 7  | [Discussion] Software Engineering during COVID-19 | |
 | Apr 12 | [Discussion] Productivity and Behavior | HW7 |
 | Apr 14 | [Discussion] Teamwork and Collaboration | |
-| Apr 19 | [Discussion] Technical Interviews | |
+| Apr 19 | [Discussion] Technical Interviews | Project Report Abstract |
 | Apr 21 | [Workshop] Technical Interviews | |
 | Apr 26 | [Discussion] Stack Overflow | HW8 |
 | Apr 28 | [Discussion] Security | |
