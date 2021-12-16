@@ -20,3 +20,7 @@ To further help us all get to know each other, please introduce yourself. After 
 * Where are you from?
 * Do you have any previous software engineering experience? If so, where did you work and for how long?
 * What do you hope to get out of this course?
+
+## Basics Workshop
+
+Any tasks that you were not able to complete for the Software Engineering Basics workshop during class should be finished for Homework 0.

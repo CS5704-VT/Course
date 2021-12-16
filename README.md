@@ -25,7 +25,7 @@ By the end of this course, students should be able to:
 
 ## Schedule
 
-➡️ _Please note this schedule is subject to change. All assignments listed are due on the Friday of the week they are posted unless otherwise specified._
+➡️ _Please note this schedule is subject to change. **All assignments are due at 11:59pm on the Friday of the week they are posted unless otherwise specified.**_
 
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
