@@ -30,7 +30,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Jan 18 | Introduction | HW0 |
+| Jan 18 | Introduction | [HW0](HWs/HW0.md) |
 | Jan 20 | Software Process | |
 | Jan 25 | Software Process (cont.) | HW1 |
 | Jan 27 | [Workshop] Engineering Basics | |
