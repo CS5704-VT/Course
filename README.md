@@ -37,8 +37,8 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Feb 1  | Project Management | Project Group Formation |
 | Feb 3  | Software Design | |
-| Feb 8  | Architecture | HW2 |
-| Feb 10 | Project Workday | |
+| Feb 8  | Project Workday | HW2 |
+| Feb 10 | Software Architecture | |
 | <tr><th colspan=3> 🤖 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
 | Feb 15 | [Discussion] Software Engineers | HW3 |
 | Feb 17 | Code Metrics | |
