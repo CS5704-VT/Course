@@ -38,12 +38,12 @@ By the end of this course, students should be able to:
 | Feb 1  | Requirements Analysis | Project Group Formation |
 | Feb 3  | Software Design | |
 | Feb 8  | Project Workday | HW2 |
-| Feb 10 | Software Architecture | |
+| Feb 10 | Design and UX | |
 | <tr><th colspan=3> 🤖 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
-| Feb 15 | [Discussion] Software Engineers | HW3 |
-| Feb 17 | Code Metrics | |
-| Feb 22 | Development Tools | Project Proposal Docs, due 3/1 |
-| Feb 24 | Project Proposal Presentations | |
+| Feb 15 | [Discussion] Software Engineers | Project Proposal |
+| Feb 17 | Project Proposal Presentations | |
+| Feb 22 | Implementation | HW3 |
+| Feb 24 | [Workshop] Software Configuration | |
 | Mar 1  | [Discussion] Debugging | HW4 |
 | Mar 3  | [Discussion] Code Reviews | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
@@ -51,7 +51,7 @@ By the end of this course, students should be able to:
 | Mar 10 | SPRING BREAK | |
 | <tr><th colspan=3> ✔️ &nbsp;&nbsp;&nbsp; Testing, Maintenance, and Deployment &nbsp;&nbsp;&nbsp; 🚀  </th></tr>    |
 | Mar 15 | Software Testing | HW5 |
-| Mar 17 | Advanced Software Testing | |
+| Mar 17 | [Workshop] Advanced Software Testing | |
 | Mar 22 | Maintainability and Refactoring | HW6 |
 | Mar 24 | Continuous Integration / Continuous Deployment | |
 | <tr><th colspan=3>💯 &nbsp;&nbsp;&nbsp; Exam &nbsp;&nbsp;&nbsp; 💯</th></tr>
