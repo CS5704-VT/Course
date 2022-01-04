@@ -21,6 +21,18 @@ To further help us all get to know each other, please introduce yourself. After 
 * Do you have any previous software engineering experience? If so, where did you work and for how long?
 * What do you hope to get out of this course?
 
-## Basics Workshop
+## Version Control
 
-Any tasks that you were not able to complete for the Software Engineering Basics workshop during class should be finished for Homework 0.
+[Git](https://git-scm.com/) is the version control system we will be using for this course. You may download the git client to your system [here](https://git-scm.com/downloads). Additionally, [GitHub](https://github.com/) and [GitLab](https://about.gitlab.com/) are two popular cloud-based hosting services for Git. We may use either or both of these platforms throughout the course various class activities and for collaborate on your team project. Please go through the following examples to practice creating repositories on each website. To get full credit you must complete the tasks exactly as specified so make sure to read the instructions carefully.
+
+__GitHub__
+
+If you have not done so already, create an account on [https://github.com/](https://github.com/). Sign into your GitHub account to complete the following tasks:
+1. Create a new _private_ GitHub repository named HW0-5704 with the description "Hello World" and initialized with a README file.
+2. Invite the instructor (chbrown13) and TA (TBD) to be collaborators to your repository (Settings -> Manage access).
+3. Using the web-based GitHub editor or cloning your repository and committing manually:
+     * Edit the README file by adding your VT ID on line 4
+     * Add a new file named `hello.{ext}` that prints `Hello World!` in your favorite programming language, where `{ext}` is the default file extension for source code files in your selected language.
+
+__GitLab__
+Sign in to the Virginia Tech instance of GitLab
