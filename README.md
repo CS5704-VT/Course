@@ -31,19 +31,19 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 18 | Introduction | [HW0](HWs/HW0.md) |
-| Jan 20 | Software Process | |
-| Jan 25 | Software Process (cont.) | HW1 |
-| Jan 27 | [Workshop] Engineering Basics | |
+| Jan 20 |[Workshop] Engineering Basics | |
+| Jan 25 | Software Process | HW1 |
+| Jan 27 | Software Process (cont.) | |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
-| Feb 1  | Requirements Analysis | Project Group Formation |
-| Feb 3  | Software Design | |
+| Feb 1  | [Discussion] Software Engineers | Project Group Formation |
+| Feb 3  | Requirements Analysis | |
 | Feb 8  | Project Workday | HW2 |
-| Feb 10 | Design and UX | |
+| Feb 10 | Software Design | |
 | <tr><th colspan=3> 🤖 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
-| Feb 15 | [Discussion] Software Engineers | Project Proposal |
+| Feb 15 | Design and UX | Project Proposal |
 | Feb 17 | Project Proposal Presentations | |
 | Feb 22 | Implementation | HW3 |
-| Feb 24 | [Workshop] Software Configuration | |
+| Feb 24 | [Workshop] Development Tools | |
 | Mar 1  | [Discussion] Debugging | HW4 |
 | Mar 3  | [Discussion] Code Reviews | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
@@ -57,16 +57,16 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3>💯 &nbsp;&nbsp;&nbsp; Exam &nbsp;&nbsp;&nbsp; 💯</th></tr>
 | Mar 29 | Exam Review | |
 | Mar 31 | Midterm Exam | |
-| Apr 5  | Project Workday | |
+| Apr 5  | Project Workday | Project Sprint Check-in |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👀 </th></tr>
 | Apr 7  | [Discussion] Software Engineering during COVID-19 | |
 | Apr 12 | [Discussion] Productivity and Behavior | HW7 |
 | Apr 14 | [Discussion] Teamwork and Collaboration | |
-| Apr 19 | [Discussion] Technical Interviews | Project Report Abstract |
-| Apr 21 | [Workshop] Technical Interviews | |
-| Apr 26 | [Discussion] Stack Overflow | HW8 |
-| Apr 28 | [Discussion] Security | |
-| May 3  | [Discussion] Automated Software Engineering | Project Final Report |
+| Apr 19 | [Discussion] Technical Interviews | HW8 |
+| Apr 21 | [Discussion] Stack Overflow | |
+| Apr 26 | [Discussion] Security | Project Report Abstract |
+| Apr 28 | [Discussion] Automated Software Engineering | |
+| May 3  | Class Retrospective and Project Workday | Project Final Report |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🎥 </th></tr> |
 | May 6 | Project Demos | |
 
