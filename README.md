@@ -20,8 +20,9 @@ By the end of this course, students should be able to:
 ### Course Info
 
 * **Lectures:** Tu/Th 8:00-9:15am, McBryde 126
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* TBD
-* **TA:** TBD, *Office hours:* TBD
+* **Final Exam:** Fri May 6 7:45-9:45am
+* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Tu/Th 3-4pm
+* **TA:** Mohammed El-Arnaoty [marnaoty@vt.edu], *Office hours:* Fri 3:30-5pm
 
 ## Schedule
 
