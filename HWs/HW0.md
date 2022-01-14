@@ -1,4 +1,4 @@
-# HW0
+# HW 0
 
 This homework will help you with some setup and preparation for the course.
 
@@ -33,6 +33,6 @@ The primary mode of communication for the course this semester will be Slack. Co
 
 **TODO:** If you do not complete the Software Engineering Basics workshop in class on Thursday, finish it as part of HW0. 
 
-- [ ] Submit your workshop materials to the Canvas assignment.
+- [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/145256/assignments/1384316).
 
 **Due:** Friday (1/21) at 11:59pm
