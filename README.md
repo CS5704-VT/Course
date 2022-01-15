@@ -41,10 +41,10 @@ By the end of this course, students should be able to:
 | Feb 8  | Project Workday | HW2 |
 | Feb 10 | Software Design | |
 | <tr><th colspan=3> 🤖 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
-| Feb 15 | Design and UX | Project Proposal |
+| Feb 15 | Implementation | Project Proposal |
 | Feb 17 | Project Proposal Presentations | |
-| Feb 22 | Implementation | HW3 |
-| Feb 24 | [Workshop] Development Tools | |
+| Feb 22 | [Workshop] Coding Environments | HW3 |
+| Feb 24 | Code Analysis | |
 | Mar 1  | [Discussion] Debugging | HW4 |
 | Mar 3  | [Discussion] Code Reviews | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
