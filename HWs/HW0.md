@@ -36,7 +36,7 @@ The primary mode of communication for the course this semester will be Slack. Co
 
 ## SE Basics Workshop
 
-**TODO:** If you do not complete the Software Engineering Basics workshop in class on Thursday, finish it as part of HW0. 
+**TODO:** If you do not complete the Software Engineering Basics [workshop](https://docable.cloud/chbrown13/class-ops/Basics/README.md) in class on Thursday, finish it as part of HW0. 
 
 - [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/145256/assignments/1384316).
 
