@@ -52,9 +52,9 @@ By the end of this course, students should be able to:
 | Mar 10 | SPRING BREAK | |
 | <tr><th colspan=3> ✔️ &nbsp;&nbsp;&nbsp; Testing, Maintenance, and Deployment &nbsp;&nbsp;&nbsp; 🚀  </th></tr>    |
 | Mar 15 | Software Testing | HW5 |
-| Mar 17 | [Workshop] Advanced Software Testing | |
-| Mar 22 | Maintainability and Refactoring | HW6 |
-| Mar 24 | Continuous Integration / Continuous Deployment | |
+| Mar 17 | [Workshop] Advanced Testing | |
+| Mar 22 | Maintenance | HW6 |
+| Mar 24 | Deployment | |
 | <tr><th colspan=3>💯 &nbsp;&nbsp;&nbsp; Exam &nbsp;&nbsp;&nbsp; 💯</th></tr>
 | Mar 29 | Exam Review | |
 | Mar 31 | Midterm Exam | |
@@ -67,7 +67,7 @@ By the end of this course, students should be able to:
 | Apr 21 | [Discussion] Stack Overflow | |
 | Apr 26 | [Discussion] Security | Project Report Abstract |
 | Apr 28 | [Discussion] Automated Software Engineering | |
-| May 3  | Class Retrospective and Project Workday | Project Final Report |
+| May 3  | Make-up Day / Retrospective and Project Workday | Project Final Report |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🎥 </th></tr> |
 | May 6 | Project Demos | |
 

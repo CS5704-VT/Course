@@ -2,6 +2,11 @@
 
 This homework will help you with some setup and preparation for the course.
 
+## Course Overview
+
+**TODO:** Review the [course syllabus](https://docs.google.com/document/d/1SJiwq_c-3qcAkEq5EtIzFng8pZ8S5F1wbr91LzZaW40/edit?usp=sharing).
+
+- [ ] Based on the syllabus and first lecture, fill out this [syllabus survey](https://forms.gle/jfF2e3NZtTnD13v67) with any questions, confusions, or concerns you still have about the course this semester.
 
 ## Slack
 
@@ -34,5 +39,6 @@ The primary mode of communication for the course this semester will be Slack. Co
 **TODO:** If you do not complete the Software Engineering Basics workshop in class on Thursday, finish it as part of HW0. 
 
 - [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/145256/assignments/1384316).
+
 
 **Due:** Friday (1/21) at 11:59pm
