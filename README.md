@@ -32,7 +32,7 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 18 | Introduction | [HW0](HWs/HW0.md) |
-| Jan 20 |[Workshop] Engineering Basics | |
+| Jan 20 |[[Workshop] Engineering Basics](https://docable.cloud/CS5704-VT/Workshops/Basics/README.md) | |
 | Jan 25 | Software Process | HW1 |
 | Jan 27 | Software Process (cont.) | |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
