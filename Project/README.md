@@ -35,7 +35,7 @@ You will submit your project in multiple milestones throughout the semester that
 | [Deployment](DEPLOY.md)     | __Project Demo (25%)__       | May 6 **[_In Class_]** |
 |                | __Retrospective (5%)__       | May 9 |
 
-> __Late Policy:__ No late work will be accepted unless there are extreme circumstances approved by the instructor. All deliverables must be turned in by 11:59pm on the given due date unless otherwise specified.
+__Late Policy:__ No late work will be accepted unless there are extreme circumstances approved by the instructor. All deliverables must be turned in by 11:59pm on the given due date unless otherwise specified.
 
 #### __Lightning Talk__
 * Your group must complete an oral proposal presentation during class provding an overview of the project you wish to complete for the semester. This talk must include a problem statement, your proposed solution, how your proposed work relates to the overall project goal, and **at least three** example `requirements` [use cases](REQUIREMENTS.md#use-cases). You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. There will also be a brief time of Q&A from students after each presentation on your proposed work. The proposal oral presentation will be graded according to [this rubric](https://docs.google.com/spreadsheets/d/11xcUHQSFY8ux6Uu5WFnAOOUkZMLuNnf71mxmHcMmo8c/edit?usp=sharing). 
@@ -68,12 +68,12 @@ You will submit your project in multiple milestones throughout the semester that
     * a relevant _title_ and all group members listed as _authors_;
     *  the _abstract_ with feedback addressed;
     *  an updated _introduction_ incorporating proposal feedback to define the problem and motivate the project solution;
-    *  a _motivating example_ to provide a scenario of how your project would be used and why it is relevant to software engineering;
+    *  a _motivating example_ to provide a scenario of how your project would be used and why it is relevant to software engineering during COVID;
     *  a _background_ to define any key terms or concepts related to your work (if applicable);
     *  an updated _related work_ citing relevant work and the novelty of your project; 
-    *  a description of the _implementation_ explaining the design decisions that went into your project **or** the _methodology_ of the expiriment you completed, (if research)
-    *  a _testing_ section to show the validity of your project and explain the testing approach **or** _results_ to present your study findings;
-    *  a _discussion_ explaining possible opportunities for future work and limitations of your project;  
+    *  a description of the _implementation_ explaining design decisions that went into your project and your testing approach **or** the _methodology_ of the expiriment you completed, (if research)
+    *  a _deployment plan_ section explaining how you would `deploy` and `maintain` your project for users **or** _results_ to present your study findings;
+    *  a _discussion_ explaining possible opportunities for future extensions and limitations of your project;  
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ for any works that you cite.
 
