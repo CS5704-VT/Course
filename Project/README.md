@@ -24,7 +24,7 @@ You may use any programming language or tech stack you are comfortable with, as 
 
 You will submit your project in multiple milestones throughout the semester that broadly follow the software development life cycle. More details about the specific deliverables for your project are available below.
 
-|  Phase  | Deliverable (Project Grade %)    |  Deadline       |
+|  Milestone  | Deliverables (Project Grade %)    |  Deadline       |
 |---------|----------------------------------|-----------------|
 | [Requirements](REQUIREMENTS.md)   | __Lightning Talk (15%)__     | Feb 24 **[_In Class_]** |
 | [Design](DESIGN.md)         | __Proposal Document (15%)__  | Mar 1 |
