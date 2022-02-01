@@ -26,10 +26,10 @@ You will submit your project in multiple milestones throughout the semester that
 
 |  Milestone  | Deliverables (Project Grade %)    |  Deadline       |
 |---------|----------------------------------|-----------------|
-| [Requirements](REQUIREMENTS.md)   | __Lightning Talk (15%)__     | Feb 24 **[_In Class_]** |
-| [Design](DESIGN.md)         | __Proposal Document (15%)__  | Mar 1 |
+| [Requirements](REQUIREMENTS.md)   | __Lightning Talk (15%)__     | Feb 17 **[_In Class_]** |
+| [Design](DESIGN.md)         | __Proposal Document (15%)__  | Feb 18 |
 | [Implementation](IMPLEMENTATION.md) | __Project Check-In (5%)__    | Apr 8 |
-|                | __Report Abstract (5%)__     | Apr 22 |
+|                | __Report Abstract (5%)__     | Apr 29 |
 | [Testing](TESTING.md)        | __Project Repository (15%)__ | May 6 |
 |                | __Final Report (15%)__       | May 6 |
 | [Deployment](DEPLOY.md)     | __Project Demo (25%)__       | May 6 **[_In Class_]** |
