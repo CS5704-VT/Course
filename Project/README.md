@@ -71,8 +71,8 @@ __Late Policy:__ No late work will be accepted unless there are extreme circumst
     *  a _motivating example_ to provide a scenario of how your project would be used and why it is relevant to software engineering during COVID;
     *  a _background_ to define any key terms or concepts related to your work (if applicable);
     *  an updated _related work_ citing relevant work and the novelty of your project; 
-    *  a description of the _implementation_ explaining design decisions that went into your project and your testing approach **or** the _methodology_ of the expiriment you completed, (if research)
-    *  a _deployment plan_ section explaining how you would `deploy` and `maintain` your project for users **or** _results_ to present your study findings;
+    *  a description of the _implementation_ design decisions, processes, and testing approach **or** the _methodology_ of the expiriment you completed, (if research)
+    *  a _deployment plan_ section explaining how you would `deploy` and `maintain` your project for users if you were to release it **or** _results_ to present your study findings;
     *  a _discussion_ explaining possible opportunities for future extensions and limitations of your project;  
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ for any works that you cite.
