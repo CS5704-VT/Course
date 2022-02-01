@@ -36,7 +36,7 @@ By the end of this course, students should be able to:
 | Jan 25 | Software Process | [HW1](HWs/HW1.md) |
 | Jan 27 | Software Process (cont.) | |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
-| Feb 1  | [Discussion] Software Engineers | Project Group Formation |
+| Feb 1  | [Discussion] Software Engineers | [Project Group Formation](https://forms.gle/v9vXqNrQnz5frbvE9) |
 | Feb 3  | Requirements Analysis | |
 | Feb 8  | Project Workday | HW2 |
 | Feb 10 | Software Design | |
