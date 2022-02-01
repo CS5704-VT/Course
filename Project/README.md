@@ -1,6 +1,6 @@
 # Project
 
-The coronavirus pandemic has had a major impact on the entire world in nearly every area of our lives, including how software is developed and maintained. To that end, the goal for the CS5704 course project this semester will be to develop a project to support software engineering work during a global pandemic. For your project, you should consider the software engineering processes and utilize methods and tools for the software development life cycle phases (`requirements`, `design`, `implementation`, `testing`, and `deployment`) discussed in class.
+The coronavirus pandemic has had a major impact on the entire world in nearly every area of our lives, including how software is developed and maintained. To that end, the goal for the CS5704 course project this semester will be to develop a project to support software engineering work during a global pandemic. For your project, you should consider the software engineering processes and utilize methods and tools for the software development life cycle phases (`requirements`, `design`, `implementation`, `testing`, and `maintenance/deployment`) discussed in class.
 
 **Learning Outcomes:**
 > * Develop software engineering skills working on a team project
