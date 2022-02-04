@@ -1,6 +1,6 @@
 # Project
 
-The coronavirus pandemic has had a major impact on the entire world in nearly every area of our lives, including how software is developed and maintained. To that end, the goal for the CS5704 course project this semester will be to develop a project to support software engineering work during a global pandemic. For your project, you should consider the software engineering processes and utilize methods and tools for the software development life cycle phases (`requirements`, `design`, `implementation`, `testing`, and `deployment`) discussed in class.
+The coronavirus pandemic has had a major impact on the entire world in nearly every area of our lives, including how software is developed and maintained. To that end, the goal for the CS5704 course project this semester will be to develop a project to support software engineering work during a global pandemic. For your project, you should consider the software engineering processes and utilize methods and tools for the software development life cycle phases (`requirements`, `design`, `implementation`, `testing`, and `maintenance/deployment`) discussed in class.
 
 **Learning Outcomes:**
 > * Develop software engineering skills working on a team project
@@ -26,10 +26,10 @@ You will submit your project in multiple milestones throughout the semester that
 
 |  Milestone  | Deliverables (Project Grade %)    |  Deadline       |
 |---------|----------------------------------|-----------------|
-| [Requirements](REQUIREMENTS.md)   | __Lightning Talk (15%)__     | Feb 24 **[_In Class_]** |
-| [Design](DESIGN.md)         | __Proposal Document (15%)__  | Mar 1 |
+| [Requirements](REQUIREMENTS.md)   | __Lightning Talk (15%)__     | Feb 17 **[_In Class_]** |
+| [Design](DESIGN.md)         | __Proposal Document (15%)__  | Feb 18 |
 | [Implementation](IMPLEMENTATION.md) | __Project Check-In (5%)__    | Apr 8 |
-|                | __Report Abstract (5%)__     | Apr 22 |
+|                | __Report Abstract (5%)__     | Apr 29 |
 | [Testing](TESTING.md)        | __Project Repository (15%)__ | May 6 |
 |                | __Final Report (15%)__       | May 6 |
 | [Deployment](DEPLOY.md)     | __Project Demo (25%)__       | May 6 **[_In Class_]** |
@@ -71,8 +71,8 @@ __Late Policy:__ No late work will be accepted unless there are extreme circumst
     *  a _motivating example_ to provide a scenario of how your project would be used and why it is relevant to software engineering during COVID;
     *  a _background_ to define any key terms or concepts related to your work (if applicable);
     *  an updated _related work_ citing relevant work and the novelty of your project; 
-    *  a description of the _implementation_ explaining design decisions that went into your project and your testing approach **or** the _methodology_ of the expiriment you completed, (if research)
-    *  a _deployment plan_ section explaining how you would `deploy` and `maintain` your project for users **or** _results_ to present your study findings;
+    *  a description of the _implementation_ design decisions, processes, and testing approach **or** the _methodology_ of the expiriment you completed, (if research)
+    *  a _deployment plan_ section explaining how you would `deploy` and `maintain` your project for users if you were to release it **or** _results_ to present your study findings;
     *  a _discussion_ explaining possible opportunities for future extensions and limitations of your project;  
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ for any works that you cite.
