@@ -1,8 +1,8 @@
 # HW 2
 
-This homework will provide an overview of requirements and design concepts discussed in class. Upload your responses as a .txt or .pdf file or enter your text in the Canvas assignment.
+This homework will provide an overview of requirements and design concepts discussed in class. Upload your responses as a .txt or .pdf file or enter your text in the [Canvas assignment](https://canvas.vt.edu/courses/145256/assignments/1384319).
 
-## Design Workshop
+## Requirements and Design Workshop
 
 Read through the example bot and application [project ideas](../Project/IDEAS.md). Select **_two_** you might want to work on other than the Standup Bot discussed in class. Complete the following activities for both of the proposed programs.
 
@@ -17,4 +17,6 @@ Read through the example bot and application [project ideas](../Project/IDEAS.md
 
 ## Scavenger Hunt
 
-Human-computer interaction (HCI) is a broad research field that seeks to improve how humans interact with technology, and encompasses a variety of software design concepts such as user interfaces (UI), user experience (UX), and user-cented design (UCD). However, many software applications today still incorporate ineffective, unusable, and non-intuitive interface designs leading to frustration for users. For this task, find an example of a poorly designed software interface. If possible, provide a screenshot or picture of the design with an explanation of why it is bad and discuss how the affordances of the system can be improved.
+Human-computer interaction (HCI) is a broad research field that seeks to improve how humans interact with technology, and encompasses a variety of software design concepts such as user interfaces (UI), user experience (UX), and user-cented design (UCD). However, many software applications today still incorporate ineffective, unusable, and non-intuitive interface designs leading to frustration for users. For this task, find an example of a poorly designed software interface. If possible, provide a screenshot or picture of the design with an explanation of why you find the interface poorly designed and discuss how interface design processes (storyboarding, wireframes, or flow maps) can help the system be improved.
+
+**Due:** Friday (2/11) at 11:59pm
