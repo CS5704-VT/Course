@@ -33,3 +33,8 @@ Use Case: Create a meeting
 ```
 
 You can think of this as a set of interactions you want to be able to support with your project.
+
+#### Deliverable: _Lightning Talk_
+* Your group must complete an oral proposal presentation during class provding an overview of the project you wish to complete for the semester. This talk must include a problem statement, your proposed solution, how your proposed work relates to the overall project goal, and **at least three** example `requirements` [use cases](REQUIREMENTS.md#use-cases). You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. There will also be a brief time of Q&A from students after each presentation on your proposed work. The proposal oral presentation will be graded according to [this rubric](https://docs.google.com/spreadsheets/d/11xcUHQSFY8ux6Uu5WFnAOOUkZMLuNnf71mxmHcMmo8c/edit?usp=sharing). 
+
+ **Due:** Thursday February 17 at 8:00am _in class_
