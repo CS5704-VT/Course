@@ -33,6 +33,6 @@ The design sketches may be included as part of your design proposal document or 
     * a brief description of the [high-level architectural](DESIGN.md) `design` of the proposed work (how different parts of the system work together);
     * and _references_ to any appropriate citations. 
 
- * You will receive feedback from the teaching staff on the document and presentation for your proposal to approve of your course project for the semester.
+ You will receive feedback from the teaching staff on the design proposal document and lightning talk to approve your course project.
 
  **Due:** Friday February 18 at 11:59pm on Canvas
