@@ -1,6 +1,6 @@
 # Requirements
 
-In this milestone, you will write a proposal with a problem statement and requirements for your course project. Part of your evaluation for this milestone will be your ability to define a problem statement and develop your own project requirements.
+In this milestone, you will present a lightning talk to introduce your project with a problem statement and requirements for your course project. Part of your evaluation for this milestone will be your ability to define a problem statement and develop your own project requirements.
 
 ## Problem Statement
 
@@ -13,7 +13,7 @@ This content should be included at the very beginning of your lightning talk _an
 
 ## Use Cases
 
-A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](TBD).
+A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](https://canvas.vt.edu/courses/145256/files/21812034?module_item_id=1825038).
 
 In your lightning talk, you must present **at least three use cases** that describe requirements for the primary functionality of your bot from a user's perspective.
 
