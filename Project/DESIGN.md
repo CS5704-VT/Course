@@ -36,4 +36,4 @@ The design sketches may be included as part of your design proposal document or 
 
  You will receive feedback from the teaching staff on the design proposal document and lightning talk to approve your course project.
 
- **Due:** Friday February 18 at 11:59pm on Canvas
+ **Due:** Friday February 18 at 11:59pm [on Canvas](https://canvas.vt.edu/courses/145256/assignments/1384320)
