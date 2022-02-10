@@ -32,6 +32,7 @@ The design sketches may be included as part of your design proposal document or 
     * _related work_ presenting relevant software engineering studies or tools; 
     * a brief description of the [high-level architectural](DESIGN.md) `design` of the proposed work (how different parts of the system work together);
     * and _references_ to any appropriate citations. 
+    * **In addition to the design section of the proposal document, you must provide a design sketch (can be a wireframe, prototype, storyboard, flow map, text description, etc.) for the user interface of your project. This may be included in the document or submitted separately.**
 
  You will receive feedback from the teaching staff on the design proposal document and lightning talk to approve your course project.
 
