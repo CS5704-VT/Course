@@ -23,3 +23,13 @@ This milestone will involve providing a mid-semester update on your project prog
     * Provide a link/access to the project issue tracker or task management system.
 
 > _Research-based projects should focus on data collection and analysis techniques._
+
+#### Deliverable: _Project Check-In_
+  * This will be a chance for you to provide the teaching staff with an update on your project. You will be asked to provide documentation on the `implementation` of your project and provide an overview of project progress and the software processes your team has been following.
+
+**Due:** Friday April 8 at 11:59pm
+
+#### Deliverable: _Report Abstract_
+  * The project report abstract will be due one week before your final report. This will provide an overview of your final report by explaining the problem you addressed and your proposed solution. While you may modify the abstract in the final report after this deadline, this is a checkpoint to ensure you are making progress on your project and have at least started on your report. For details on how to write a good abstract, check out these tips from Kent Beck [here](https://twitter.com/kentbeck/status/974359988352110592?lang=fr) and [here](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html).
+
+**Due:** Friday April 29 at 11:59pm on Canvas

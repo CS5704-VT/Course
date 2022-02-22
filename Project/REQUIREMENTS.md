@@ -1,6 +1,6 @@
 # Requirements
 
-In this milestone, you will write a proposal with a problem statement and requirements for your course project. Part of your evaluation for this milestone will be your ability to define a problem statement and develop your own project requirements.
+In this milestone, you will present a lightning talk to introduce your project with a problem statement and requirements for your course project. Part of your evaluation for this milestone will be your ability to define a problem statement and develop your own project requirements.
 
 ## Problem Statement
 
@@ -13,7 +13,7 @@ This content should be included at the very beginning of your lightning talk _an
 
 ## Use Cases
 
-A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](TBD).
+A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](https://canvas.vt.edu/courses/145256/files/21812034?module_item_id=1825038).
 
 In your lightning talk, you must present **at least three use cases** that describe requirements for the primary functionality of your bot from a user's perspective.
 
@@ -33,3 +33,8 @@ Use Case: Create a meeting
 ```
 
 You can think of this as a set of interactions you want to be able to support with your project.
+
+#### Deliverable: _Lightning Talk_
+* Your group must complete an oral proposal presentation during class provding an overview of the project you wish to complete for the semester. This talk must include a problem statement, your proposed solution, how your proposed work relates to the overall project goal, and **at least three** example `requirements` [use cases](REQUIREMENTS.md#use-cases). You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. There will also be a brief time of Q&A from students after each presentation on your proposed work. The proposal oral presentation will be graded according to [this rubric](https://docs.google.com/spreadsheets/d/11xcUHQSFY8ux6Uu5WFnAOOUkZMLuNnf71mxmHcMmo8c/edit?usp=sharing). 
+
+ **Due:** Thursday February 17 at 8:00am _in class_

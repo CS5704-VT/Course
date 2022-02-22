@@ -41,8 +41,8 @@ By the end of this course, students should be able to:
 | Feb 8  | Project Workday | [HW2](HWs/HW2.md) |
 | Feb 10 | Software Design | |
 | <tr><th colspan=3> 🤖 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
-| Feb 15 | Implementation | Project Proposal |
-| Feb 17 | Lightning Talks 🌩️ | |
+| Feb 15 | Implementation | [Project Proposal](Project/DESIGN.md) |
+| Feb 17 | [Lightning Talks](Project/REQUIREMENTS.md) 🌩️ | |
 | Feb 22 | Code Analysis | [HW3](HWs/HW3.md) |
 | Feb 24 | [Workshop] Coding Environments | |
 | Mar 1  | [Discussion] Debugging | HW4 |
