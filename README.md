@@ -43,7 +43,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 🤖 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
 | Feb 15 | Implementation | Project Proposal |
 | Feb 17 | Lightning Talks 🌩️ | |
-| Feb 22 | Code Analysis | HW3 |
+| Feb 22 | Code Analysis | [HW3](HWs/HW3.md) |
 | Feb 24 | [Workshop] Coding Environments | |
 | Mar 1  | [Discussion] Debugging | HW4 |
 | Mar 3  | [Discussion] Code Reviews | |
