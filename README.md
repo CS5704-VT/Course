@@ -44,7 +44,7 @@ By the end of this course, students should be able to:
 | Feb 15 | Implementation | [Project Proposal](Project/DESIGN.md) |
 | Feb 17 | [Lightning Talks](Project/REQUIREMENTS.md) 🌩️ | |
 | Feb 22 | Code Analysis | [HW3](HWs/HW3.md) |
-| Feb 24 | [Workshop] Coding Environments | |
+| Feb 24 | [[Workshop] Coding Environments](https://github.com/CS5704-VT/Workshops/blob/main/Development/README.md) | |
 | Mar 1  | [Discussion] Debugging | HW4 |
 | Mar 3  | [Discussion] Code Reviews | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
