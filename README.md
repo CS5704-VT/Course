@@ -53,7 +53,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> ✔️ &nbsp;&nbsp;&nbsp; Testing, Maintenance, and Deployment &nbsp;&nbsp;&nbsp; 🚀  </th></tr>    |
 | Mar 15 | Software Testing | [HW5](HWs/HW5.md) |
 | Mar 17 | [Workshop] Advanced Testing | |
-| Mar 22 | Maintenance | HW6 |
+| Mar 22 | Maintenance | [HW6](HWs/HW6.md) |
 | Mar 24 | Deployment | |
 | <tr><th colspan=3>💯 &nbsp;&nbsp;&nbsp; Exam &nbsp;&nbsp;&nbsp; 💯</th></tr>
 | Mar 29 | Exam Review | |
