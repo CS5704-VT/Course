@@ -52,7 +52,7 @@ By the end of this course, students should be able to:
 | Mar 10 | SPRING BREAK | |
 | <tr><th colspan=3> ✔️ &nbsp;&nbsp;&nbsp; Testing, Maintenance, and Deployment &nbsp;&nbsp;&nbsp; 🚀  </th></tr>    |
 | Mar 15 | Software Testing | [HW5](HWs/HW5.md) |
-| Mar 17 | [Workshop] Advanced Testing | |
+| Mar 17 | [[Workshop] Advanced Testing](https://github.com/CS5704-VT/Workshops/blob/main/Testing/README.md) | |
 | Mar 22 | Maintenance | [HW6](HWs/HW6.md) |
 | Mar 24 | Deployment | |
 | <tr><th colspan=3>💯 &nbsp;&nbsp;&nbsp; Exam &nbsp;&nbsp;&nbsp; 💯</th></tr>
