@@ -56,7 +56,7 @@ By the end of this course, students should be able to:
 | Mar 22 | Maintenance | [HW6](HWs/HW6.md) |
 | Mar 24 | Deployment | |
 | <tr><th colspan=3>💯 &nbsp;&nbsp;&nbsp; Exam &nbsp;&nbsp;&nbsp; 💯</th></tr>
-| Mar 29 | Exam Review | |
+| Mar 29 | [Exam Review](Exam/StudyGuide.md) | |
 | Mar 31 | Midterm Exam | |
 | Apr 5  | Project Workday | Project Sprint Check-in |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👀 </th></tr>
