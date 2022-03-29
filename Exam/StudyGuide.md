@@ -11,10 +11,11 @@ The exam will be an overview of all the materials covered in class for the entir
 * Compare and contrast different software process models
 * Apply process models to various software project scenarios
 * Understand differences between iterative and plan-based process models
+* Understand practices contained in each software engineering process phase
 
 ### Agile
 * Compare and contrast different agile-based processes and concepts
-* Understand the difference between different types of agile meetings
+* Understand the difference between different types of meetings
 
 ### Requirements
 * Explain the difference between requirements analysis and specification
@@ -27,8 +28,8 @@ The exam will be an overview of all the materials covered in class for the entir
 * Evaluate the usability of software user interfaces
 
 ### Implementation
-* Describe git commands
-* Describe shell commands
+* Understand the differences and commands for tools utilized during course workshops
+* Explain different static and dynamic code analysis techniques
 * Understand the different types of code ownership
 * Calculate cyclomatic complexity
 * Compare and contrast different code complexity metrics
