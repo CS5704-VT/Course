@@ -58,7 +58,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3>💯 &nbsp;&nbsp;&nbsp; Exam &nbsp;&nbsp;&nbsp; 💯</th></tr>
 | Mar 29 | [Exam Review](Exam/StudyGuide.md) | |
 | Mar 31 | Midterm Exam | |
-| Apr 5  | Project Workday | Project Sprint Check-in |
+| Apr 5  | Project Workday | [Project Check-in](https://canvas.vt.edu/courses/145256/assignments/1385274) |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👀 </th></tr>
 | Apr 7  | [Discussion] Software Engineering during COVID-19 | |
 | Apr 12 | [Discussion] Productivity and Behavior | HW7 |

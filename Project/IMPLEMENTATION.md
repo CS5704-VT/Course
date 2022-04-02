@@ -25,7 +25,7 @@ This milestone will involve providing a mid-semester update on your project prog
 > _Research-based projects should focus on data collection and analysis techniques._
 
 #### Deliverable: _Project Check-In_
-  * This will be a chance for you to provide the teaching staff with an update on your project. You will be asked to provide documentation on the `implementation` of your project and provide an overview of project progress and the software processes your team has been following.
+  * This will be a chance for you to provide the teaching staff with an update on your project. You will be asked to provide documentation on the `implementation` of your project and provide an overview of project progress and the software processes your team has been following. Details for the project check-in report are available [on Canvas](https://canvas.vt.edu/courses/145256/assignments/1385274).
 
 **Due:** Friday April 8 at 11:59pm
 
