@@ -63,7 +63,7 @@ By the end of this course, students should be able to:
 | Apr 7  | [Discussion] Software Engineering during COVID-19 | |
 | Apr 12 | [Discussion] Productivity and Behavior | [HW7](HWs/HW7.md) |
 | Apr 14 | [Discussion] Teamwork and Collaboration | |
-| Apr 19 | [Discussion] Technical Interviews | HW8 |
+| Apr 19 | [Discussion] Technical Interviews | [HW8](HWs/HW8.md) |
 | Apr 21 | [Discussion] Stack Overflow | |
 | Apr 26 | [Discussion] Security | Project Report Abstract |
 | Apr 28 | [Discussion] Automated Software Engineering | |
