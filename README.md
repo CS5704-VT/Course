@@ -65,9 +65,9 @@ By the end of this course, students should be able to:
 | Apr 14 | [Discussion] Teamwork and Collaboration | |
 | Apr 19 | [Discussion] Technical Interviews | [HW8](HWs/HW8.md) |
 | Apr 21 | [Discussion] Stack Overflow | |
-| Apr 26 | [Discussion] Security | Project Report Abstract |
+| Apr 26 | [Discussion] Security | [Project Report Abstract](https://canvas.vt.edu/courses/145256/assignments/1384459) |
 | Apr 28 | [Discussion] Automated Software Engineering | |
-| May 3  | Make-up Day / Retrospective and Project Workday | Project Final Report |
+| May 3  | Make-up Day / Retrospective and Project Workday | [Project Final Report](https://canvas.vt.edu/courses/145256/assignments/1384460) |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🎥 </th></tr> |
 | May 6 | Project Demos | |
 
