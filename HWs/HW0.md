@@ -40,27 +40,5 @@ The primary mode of communication for the course this semester will be Slack. Co
 
 - [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/145256/assignments/1384316).
 
-### Update ⚠️
-
-Due to issues with Docable in class, please complete the following activities to submit for the workshop:
-
-**FizzBuzz**
-![image](https://user-images.githubusercontent.com/4522684/150366174-f6651fee-0fbe-4075-92c4-5aa9eafb4c43.png)
-
-**Create a GitHub repository**
-_Local_
-![image](https://user-images.githubusercontent.com/4522684/150366472-54343832-b653-4497-a621-b3731b493b21.png)
-
-_Remote_
-![image](https://user-images.githubusercontent.com/4522684/150366617-5379d125-145d-42e0-8758-504e85d5c986.png)
-
-Add your fizz-buzz program to this repository.
-
-**Workshop Issue**
-![image](https://user-images.githubusercontent.com/4522684/150367640-9d7e0d49-fd94-4e9b-aa10-2613d0201e88.png)
-
-**Stand-up Meeting**
-![image](https://user-images.githubusercontent.com/4522684/150367854-e3b85fdb-1c1a-4a93-bf42-81c0940f4d19.png)
-
 
 **Due:** Friday (1/21) at 11:59pm
