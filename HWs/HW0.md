@@ -41,4 +41,4 @@ The primary mode of communication for the course this semester will be Slack. Co
 - [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/145256/assignments/1384316).
 
 
-**Due:** Friday (1/21) at 11:59pm
+**Due:** Friday (1/20) at 11:59pm
