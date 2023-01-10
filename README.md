@@ -58,7 +58,7 @@ By the end of this course, students should be able to:
 | Mar 28 | Exam Review / Project Workday | |
 | Mar 30 | 💯 Exam 💯 | |
 | Apr 4  | [Discussion] Software Testing | [Project Check-in](https://canvas.vt.edu/courses/145256/assignments/1385274) |
-| Apr 6  | [Discussion] TBD | |
+| Apr 6  | [Discussion] Security | |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
 | Apr 11 | Maintenance | [HW7](HWs/HW7.md) |
 | Apr 13 | [Discussion] Refactoring | |
