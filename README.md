@@ -2,7 +2,7 @@
 
 ### Course Description
 
-Software engineering involves the development and maintainance of complex software systems. In this course, students will learn about phases of the software life cycle: requirements, design, implementation, testing, and maintenance. The students will also have an opportunity to work on a project supporting software development tasks, discuss state-of-the-art SE research, and gain the skills and knowledge necessary to succeed as a software engineer in industry. The course will consist of traditional lectures, practical workshops to gain exposure to SE tools and principles, and seminar-style discussions about advanced research topics in software engineering.
+Software engineering involves the development and maintenance of complex software systems. In this course, students will learn about phases of the software life cycle: requirements, design, implementation, testing, and maintenance. The students will also have an opportunity to work on a project supporting software development tasks, discuss state-of-the-art SE research, and gain the skills and knowledge necessary to succeed as a software engineer in industry. The course will consist of traditional lectures, practical workshops to gain exposure to SE tools and principles, and seminar-style discussions about advanced research topics in software engineering.
 
 Please see the [Course Syllabus](https://docs.google.com/document/d/18-5J8LIHu3SDDkfEbWogdbA4_fRtXECs4-hp-Ox0MT4/edit?usp=sharing) for additional information about course logistics and policies.
 
