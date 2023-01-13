@@ -18,6 +18,9 @@ The primary mode of communication for the course this semester will be Slack. Co
 - [ ] Set your full name to be your first and last name. Your display name should be your first name (or name you prefer to go by).
 - [ ] Upload a recent photo of yourself (professional headshot or one that meets [passport photo guidelines](https://travel.state.gov/content/travel/en/passports.html/pptphotoreq/photocomptemplate/photocomptemplate_5297.html)) for your profile photo.
 
+Good example ✅: ![Good example for Slack profile](../resources/imgs/good_profile.png "Good example")
+Bad example ❌: ![Bad example for Slack profile](../resources/imgs/good_profile.png "Bad example")
+
 ### Introductions
 
 **TODO:** To further help us all get to know each other, please introduce yourself. After your profile has been created, write a brief paragraph in the #general channel of the CS5704 [Spring 2022] Slack that contains the following information:
