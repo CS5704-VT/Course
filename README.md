@@ -21,8 +21,8 @@ By the end of this course, students should be able to:
 
 * **Lectures:** Tu/Th 5:00-6:15pm, Surge 103A
 * **Final Exam:** Fri May 6 7:00-9:00pm
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* 
-* **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:*
+* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 10-11am
+* **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:* Tu/Th, 3:45 - 4:45pm
 
 ## Schedule
 
@@ -32,12 +32,12 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 17 | Introduction / Software Process | [HW0](HWs/HW0.md) |
-| Jan 19 | [Workshop] Engineering Basics | |
-| Jan 24 | Software Process (cont.)  | [HW1] |
-| Jan 26 |  [Discussion] Software Engineers| |
+| Jan 19 | [Workshop] Engineering Basics / Software Process (cont.) | |
+| Jan 24 | [Discussion] Software Engineers  | [HW1] |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
-| Jan 31 | Requirements | [Project Group Formation] |
-| Feb 2  | Design | |
+| Jan 26 | Requirements | |
+| Jan 31 | Design | [Project Group Formation] |
+| Feb 2  | [Discussion] Requirements Analysis | |
 | Feb 7  | [Workshop] Technical Interviews / Project Workday | [HW2] |
 | Feb 9  | [Lightning Talks] 🌩️ | |
 | <tr><th colspan=3> 🚧 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
