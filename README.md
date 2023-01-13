@@ -22,7 +22,7 @@ By the end of this course, students should be able to:
 * **Lectures:** Tu/Th 5:00-6:15pm, Surge 103A
 * **Final Exam:** Fri May 6 7:00-9:00pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* 
-* **TA:** 
+* **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:*
 
 ## Schedule
 
@@ -32,7 +32,7 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 17 | Introduction / Software Process | [HW0] |
-| Jan 19 | [[Workshop] Engineering Basics] | |
+| Jan 19 | [Workshop] Engineering Basics | |
 | Jan 24 | Software Process (cont.)  | [HW1] |
 | Jan 26 |  [Discussion] Software Engineers| |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
@@ -43,21 +43,22 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 🚧 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
 | Feb 14 | [Discussion] Technical Interviews | [Project Proposal] |
 | Feb 16 | Implementation | |
-| Feb 21 | [Discussion] Productivity | [HW3]|
-| Feb 23 | Code Analysis | |
+| Feb 21 | Code Analysis | [HW3]|
+| Feb 23 | [Discussion] Code Reviews | |
 | Feb 28 | Guest Lecture | [HW4] |
 | Mar 2  | [Workshop] Coding Environments | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
 | Mar 7  | SPRING BREAK | |
 | Mar 9  | SPRING BREAK | |
-| Mar 14 | [Discussion] Code Reviews | [HW5] |
-| Mar 16 | [Discussion] Stack Overflow | |
 | <tr><th colspan=3>✔️ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr>
-| Mar 21 | Testing | [HW6] |
-| Mar 23 | [Workshop] Advanced Testing | |
-| Mar 28 | Exam Review / Project Workday | |
-| Mar 30 | 💯 Exam 💯 | |
-| Apr 4  | [Discussion] Software Testing | [Project Check-in] |
+| Mar 14 | Testing | [HW5] |
+| Mar 16 | [Workshop] Advanced Testing | |
+| Mar 21 | Exam Review / Project Workday  | |
+| Mar 23 |  💯 Exam 💯  | |
+| Mar 28 | [Discussion] Software Testing | [Project Check-in] |
+| <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👥</th></tr>
+| Mar 30 | [Discussion] Productivity | |
+| Apr 4  | [Discussion] Stack Overflow| [HW6] |
 | Apr 6  | [Discussion] Security | |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
 | Apr 11 | Maintenance | [HW7] |
