@@ -6,7 +6,7 @@ This homework will help you with some setup and preparation for the course.
 
 **TODO:** Review the [course syllabus](https://docs.google.com/document/d/18-5J8LIHu3SDDkfEbWogdbA4_fRtXECs4-hp-Ox0MT4/edit?usp=sharing).
 
-- [ ] Based on the syllabus and first lecture, fill out this [syllabus survey](https://forms.gle/jfF2e3NZtTnD13v67) with any questions, confusions, or concerns you still have about the course this semester.
+- [ ] Based on the syllabus and first lecture, fill out this [syllabus survey](https://docs.google.com/forms/d/e/1FAIpQLSe21UdpR4YSbNzI1rKE9_5aa7WF_2NlBK0PLTorHGw2atlb4A/viewform?usp=sf_link) with any questions, confusions, or concerns you still have about the course this semester.
 
 ## Slack
 
