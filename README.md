@@ -50,7 +50,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
 | Mar 7  | SPRING BREAK | |
 | Mar 9  | SPRING BREAK | |
-| <tr><th colspan=3>✔️ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr>
+| <tr><th colspan=3>✅ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr>
 | Mar 14 | Testing | [HW5] |
 | Mar 16 | [Workshop] Advanced Testing | |
 | Mar 21 | Exam Review / Project Workday  | |
