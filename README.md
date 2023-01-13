@@ -4,7 +4,7 @@
 
 Software engineering involves the development and maintenance of complex software systems. In this course, students will learn about phases of the software life cycle: requirements, design, implementation, testing, and maintenance. The students will also have an opportunity to work on a project supporting software development tasks, discuss state-of-the-art SE research, and gain the skills and knowledge necessary to succeed as a software engineer in industry. The course will consist of traditional lectures, practical workshops to gain exposure to SE tools and principles, and seminar-style discussions about advanced research topics in software engineering.
 
-Please see the [Course Syllabus](https://docs.google.com/document/d/18-5J8LIHu3SDDkfEbWogdbA4_fRtXECs4-hp-Ox0MT4/edit?usp=sharing) for additional information about course logistics and policies.
+Please see the [Course Syllabus](https://docs.google.com/document/d/18-5J8LIHu3SDDkfEbWogdbA4_fRtXECs4-hp-Ox0MT4/edit?usp=sharing) for additional information about course logistics and policies. We will also use [Canvas](https://canvas.vt.edu/courses/165661) for submitting coursework and other class activities.
 
 ### Learning Objectives
 
@@ -31,7 +31,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Jan 17 | Introduction / Software Process | [HW0] |
+| Jan 17 | Introduction / Software Process | [HW0](HWs/HW0.md) |
 | Jan 19 | [Workshop] Engineering Basics | |
 | Jan 24 | Software Process (cont.)  | [HW1] |
 | Jan 26 |  [Discussion] Software Engineers| |
