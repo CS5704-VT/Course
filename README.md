@@ -32,8 +32,8 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 17 | Introduction / Software Process | [HW0](HWs/HW0.md) |
-| Jan 19 | [Workshop] Engineering Basics / Software Process (cont.) | |
-| Jan 24 | [Discussion] Software Engineers  | [HW1] |
+| Jan 19 | [Workshop] Engineering Basics | |
+| Jan 24 | Software Process (cont.) [Discussion] Software Engineers  | [HW1] |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Jan 26 | Requirements | |
 | Jan 31 | Design | [Project Group Formation] |
