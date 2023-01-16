@@ -21,7 +21,7 @@ By the end of this course, students should be able to:
 
 * **Lectures:** Tu/Th 5:00-6:15pm, Surge 103A
 * **Final Exam:** Fri May 6 7:00-9:00pm
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 10-11am
+* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 11-12am
 * **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:* Tu/Th, 3:45 - 4:45pm
 
 ## Schedule
@@ -31,9 +31,9 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Jan 17 | Introduction / Software Process | [HW0](HWs/HW0.md) |
+| Jan 17 | Introduction / Software Process | [[HW0](HWs/HW0.md)] |
 | Jan 19 | [Workshop] Engineering Basics | |
-| Jan 24 | Software Process (cont.) [Discussion] Software Engineers  | [HW1] |
+| Jan 24 | Software Process (cont.) / [Discussion] Software Engineers  | [HW1] |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Jan 26 | Requirements | |
 | Jan 31 | Design | [Project Group Formation] |
