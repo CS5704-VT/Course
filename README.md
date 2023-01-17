@@ -21,7 +21,7 @@ By the end of this course, students should be able to:
 
 * **Lectures:** Tu/Th 5:00-6:15pm, Surge 103A
 * **Final Exam:** Fri May 6 7:00-9:00pm
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 11-12am
+* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 11am - 12pm
 * **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:* Tu/Th, 3:45 - 4:45pm
 
 ## Schedule
@@ -31,7 +31,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Jan 17 | Introduction / Software Process | [[HW0](HWs/HW0.md)] |
+| Jan 17 | Introduction / Software Process | [[HW0]](HWs/HW0.md) |
 | Jan 19 | [Workshop] Engineering Basics | |
 | Jan 24 | Software Process (cont.) / [Discussion] Software Engineers  | [HW1] |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
@@ -59,7 +59,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👥</th></tr>
 | Mar 30 | [Discussion] Productivity | |
 | Apr 4  | [Discussion] Stack Overflow| [HW6] |
-| Apr 6  | [Discussion] Security | |
+| Apr 6  | [Discussion] Teamwork & Collaboration | |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
 | Apr 11 | Maintenance | [HW7] |
 | Apr 13 | [Discussion] Refactoring | |
