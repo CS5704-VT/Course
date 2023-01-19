@@ -32,7 +32,7 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 17 | Introduction / Software Process | [[HW0]](HWs/HW0.md) |
-| Jan 19 | [[Workshop] Software Engineering Basics](https://docable.cloud/dcbrown/c/63c9b2bfc2f71672f7c45475) | |
+| Jan 19 | [[Workshop] Software Engineering Basics](https://docable.cloud/dcbrown/v/63bb2bbffa284edbde60b1f3) | |
 | Jan 24 | Software Process (cont.) / [Discussion] Software Engineers  | [HW1] |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Jan 26 | Requirements | |
