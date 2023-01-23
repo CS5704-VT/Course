@@ -42,7 +42,7 @@ Bad example ❌: <img src="../resources/imgs/bad_profile.png" width="250"/>
 
 **TODO:** If you do not complete the Software Engineering Basics [workshop](https://docable.cloud/CS5704-VT/Workshops/Basics/README.md) in class on Thursday, finish it as part of HW0. 
 
-- [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/145256/assignments/1384316).
+- [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/165661/assignments/1701310).
 
 
 **Due:** Friday (1/20) at 11:59pm
