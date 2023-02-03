@@ -36,9 +36,9 @@ By the end of this course, students should be able to:
 | Jan 24 | Software Process (cont.) / [Discussion] Software Engineers  | [[HW1]](HWs/HW1.md) |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Jan 26 | Requirements | |
-| Jan 31 | Design | [Project Group Formation] |
+| Jan 31 | Design | [[Project Group Formation]](https://canvas.vt.edu/courses/165661/assignments/1731888) |
 | Feb 2  | [Discussion] Requirements Analysis | |
-| Feb 7  | [Workshop] Technical Interviews / Project Workday | [HW2] |
+| Feb 7  | [Workshop] Technical Interviews / Project Workday | [[HW2]](https://canvas.vt.edu/courses/165661/assignments/1731891) |
 | Feb 9  | [Lightning Talks] 🌩️ | |
 | <tr><th colspan=3> 🚧 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
 | Feb 14 | [Discussion] Technical Interviews | [Project Proposal] |
