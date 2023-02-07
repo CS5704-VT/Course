@@ -13,9 +13,9 @@ This content should be included at the very beginning of your lightning talk _an
 
 ## Use Cases
 
-A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](https://canvas.vt.edu/courses/145256/files/21812034?module_item_id=1825038).
+A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](https://canvas.vt.edu/courses/165661/files/26797104?module_item_id=2313779).
 
-In your lightning talk, you must present **at least three use cases** that describe requirements for the primary functionality of your bot from a user's perspective.
+In your lightning talk, you must present **at least three use cases or user stories** that describe requirements for the primary functionality of your bot from a user's perspective.
 
 For instance, this is an example use case for a bot to automatically schedule a meeting between developers:
 ```
