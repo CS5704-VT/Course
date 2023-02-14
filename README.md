@@ -41,7 +41,7 @@ By the end of this course, students should be able to:
 | Feb 7  | [Workshop] Technical Interviews / Project Workday | [[HW2]](https://canvas.vt.edu/courses/165661/assignments/1731891) |
 | Feb 9  | [Lightning Talks] 🌩️ | |
 | <tr><th colspan=3> 🚧 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
-| Feb 14 | [Discussion] Technical Interviews | [Project Proposal] |
+| Feb 14 | [Discussion] Technical Interviews | [[Project Proposal]](Project/DESIGN.md) |
 | Feb 16 | Implementation | |
 | Feb 21 | Code Analysis | [HW3]|
 | Feb 23 | [Discussion] Code Reviews | |
