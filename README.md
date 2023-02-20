@@ -43,7 +43,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 🚧 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
 | Feb 14 | [Discussion] Technical Interviews | [[Project Proposal]](Project/DESIGN.md) |
 | Feb 16 | Implementation | |
-| Feb 21 | Code Analysis | [HW3]|
+| Feb 21 | Code Analysis | [[HW3]](HWs/HW3.md) |
 | Feb 23 | [Discussion] Code Reviews | |
 | Feb 28 | Guest Lecture | [HW4] |
 | Mar 2  | [Workshop] Coding Environments | |
