@@ -45,7 +45,7 @@ By the end of this course, students should be able to:
 | Feb 16 | Implementation | |
 | Feb 21 | Code Analysis | [[HW3]](HWs/HW3.md) |
 | Feb 23 | [Discussion] Code Reviews | |
-| Feb 28 | Guest Lecture | [HW4] |
+| Feb 28 | Guest Lecture | [[HW4]](https://canvas.vt.edu/courses/165661/assignments/1738079) |
 | Mar 2  | [Workshop] Coding Environments | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
 | Mar 7  | SPRING BREAK | |
