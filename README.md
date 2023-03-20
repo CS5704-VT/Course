@@ -51,7 +51,7 @@ By the end of this course, students should be able to:
 | Mar 7  | SPRING BREAK | |
 | Mar 9  | SPRING BREAK | |
 | <tr><th colspan=3>✅ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr>
-| Mar 14 | Testing | [HW5] |
+| Mar 14 | Testing | [[HW5]](https://canvas.vt.edu/courses/165661/assignments/1754177) |
 | Mar 16 | [Workshop] Advanced Testing | |
 | Mar 21 | Exam Review / Project Workday  | |
 | Mar 23 |  💯 Exam 💯  | |
