@@ -20,7 +20,7 @@ By the end of this course, students should be able to:
 ### Spring 2023 Course Info
 
 * **Lectures:** Tu/Th 5:00-6:15pm, Surge 103A
-* **Final Exam:** Fri May 6 7:00-9:00pm
+* **Final Exam:** Sat May 6 7:00-9:00pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 11am - 12pm
 * **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:* Tu/Th, 3:45 - 4:45pm
 
