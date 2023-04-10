@@ -58,7 +58,7 @@ By the end of this course, students should be able to:
 | Mar 28 | [Discussion] Software Testing | [Project Check-in] |
 | <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👥</th></tr>
 | Mar 30 | [Discussion] Productivity | |
-| Apr 4  | [Discussion] Stack Overflow| [HW6] |
+| Apr 4  | [Discussion] Stack Overflow| [[HW6]](https://canvas.vt.edu/courses/165661/assignments/1763069) |
 | Apr 6  | [Discussion] Teamwork & Collaboration | |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
 | Apr 11 | Maintenance | [HW7] |
