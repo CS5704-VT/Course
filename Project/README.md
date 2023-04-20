@@ -60,8 +60,12 @@ __Late Policy:__ No late work will be accepted unless there are extreme circumst
 #### __Project Repository__
 * Your team repository will be used for `testing` to verify that your project meets the given requirements. This deliverable will include various [testing](TESTING.md) practices that will be evaluated and performed by the teaching staff for grading.
 
+**[Rubric](https://docs.google.com/spreadsheets/d/1awchnlgyU6Drphzh_5OIquzfdmewNb-pLtOiBhn8sRE/edit?usp=sharing)
+
 #### __Project Demo__
   * Instead of a final exam, your group must give a 10 minute [oral presentation and demonstration](DEPLOY.md) of a `deployed` version of your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, a visual demonstration of your project, and a discussion on limitations, future work or things you didn't have time to implement, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project.
+  
+ **[Rubric](https://docs.google.com/spreadsheets/d/1tzbtcq5ZhWqv-CYv9_DgLGddpfDyv7MFkcCigDcNdJw/edit?usp=sharing)**
 
 #### __Final Report__
 * The final report must be no more than 10 pages (not including references) and follow the same ICSE formatting guidelines as the Proposal Document. The final project report must contain the following:
@@ -76,6 +80,8 @@ __Late Policy:__ No late work will be accepted unless there are extreme circumst
     *  a _discussion_ explaining possible opportunities for future extensions and limitations of your project;  
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ for any works that you cite.
+    
+   **[Rubric](https://docs.google.com/spreadsheets/d/1CPJlcz_9Qof0flx6APnRd5Xw9D8ZwzoG5430P7D2k6o/edit?usp=sharing)**
 
 #### __Retrospective__ 
   * At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository.
