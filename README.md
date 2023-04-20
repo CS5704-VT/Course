@@ -63,7 +63,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
 | Apr 11 | Maintenance | [[HW7]](https://canvas.vt.edu/courses/165661/assignments/1767139) |
 | Apr 13 | [Discussion] Refactoring | |
-| Apr 18 | [Discussion] Debugging | [HW8] |
+| Apr 18 | [Discussion] Debugging | [[HW8]](https://forms.gle/cSY55wUJMUxs5Sgr5) |
 | <tr><th colspan=4> 🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; 🔁 </th></tr> |
 | Apr 20 | Project Workday | |
 | Apr 25 | Deployment | [Project Report Abstract] |
