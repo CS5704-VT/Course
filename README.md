@@ -20,7 +20,7 @@ By the end of this course, students should be able to:
 ### Spring 2023 Course Info
 
 * **Lectures:** Tu/Th 5:00-6:15pm, Surge 103A
-* **Final Exam:** Fri May 6 7:00-9:00pm
+* **Final Exam:** Sat May 6 7:00-9:00pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 11am - 12pm
 * **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:* Tu/Th, 3:45 - 4:45pm
 
@@ -51,19 +51,19 @@ By the end of this course, students should be able to:
 | Mar 7  | SPRING BREAK | |
 | Mar 9  | SPRING BREAK | |
 | <tr><th colspan=3>✅ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr>
-| Mar 14 | Testing | [HW5] |
+| Mar 14 | Testing | [[HW5]](https://canvas.vt.edu/courses/165661/assignments/1754177) |
 | Mar 16 | [Workshop] Advanced Testing | |
 | Mar 21 | Exam Review / Project Workday  | |
 | Mar 23 |  💯 Exam 💯  | |
 | Mar 28 | [Discussion] Software Testing | [Project Check-in] |
 | <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👥</th></tr>
 | Mar 30 | [Discussion] Productivity | |
-| Apr 4  | [Discussion] Stack Overflow| [HW6] |
+| Apr 4  | [Discussion] Stack Overflow| [[HW6]](https://canvas.vt.edu/courses/165661/assignments/1763069) |
 | Apr 6  | [Discussion] Teamwork & Collaboration | |
 | <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
-| Apr 11 | Maintenance | [HW7] |
+| Apr 11 | Maintenance | [[HW7]](https://canvas.vt.edu/courses/165661/assignments/1767139) |
 | Apr 13 | [Discussion] Refactoring | |
-| Apr 18 | [Discussion] Debugging | [HW8] |
+| Apr 18 | [Discussion] Debugging | [[HW8]](https://forms.gle/cSY55wUJMUxs5Sgr5) |
 | <tr><th colspan=4> 🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; 🔁 </th></tr> |
 | Apr 20 | Project Workday | |
 | Apr 25 | Deployment | [Project Report Abstract] |
