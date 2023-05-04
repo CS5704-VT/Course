@@ -81,7 +81,7 @@ __Late Policy:__ No late work will be accepted unless there are extreme circumst
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ for any works that you cite.
     
-   **[Rubric](https://docs.google.com/spreadsheets/d/1CPJlcz_9Qof0flx6APnRd5Xw9D8ZwzoG5430P7D2k6o/edit?usp=sharing)**
+   **[Rubric](https://docs.google.com/spreadsheets/d/16B8K1J7XkkZ7MLiFUgGsPzhP-1-Vssl2cglFZQ-6u18/edit?usp=sharing)**
 
 #### __Retrospective__ 
   * At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository.
