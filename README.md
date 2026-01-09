@@ -4,7 +4,7 @@
 
 Software engineering involves the development and maintenance of complex software systems. In this course, students will learn about phases of the software life cycle: requirements, design, implementation, testing, and maintenance. The students will also have an opportunity to work on a project supporting software development tasks, discuss state-of-the-art SE research, and gain the skills and knowledge necessary to succeed as a software engineer in industry. The course will consist of traditional lectures, practical workshops to gain exposure to SE tools and principles, and seminar-style discussions about advanced research topics in software engineering.
 
-Please see the [Course Syllabus](https://docs.google.com/document/d/18-5J8LIHu3SDDkfEbWogdbA4_fRtXECs4-hp-Ox0MT4/edit?usp=sharing) for additional information about course logistics and policies. We will also use [Canvas](https://canvas.vt.edu/courses/165661) for submitting coursework and other class activities.
+Please see the [Course Syllabus](https://docs.google.com/document/d/18-5J8LIHu3SDDkfEbWogdbA4_fRtXECs4-hp-Ox0MT4/edit?usp=sharing) for additional information about course logistics and policies. We will also use [Canvas](https://canvas.vt.edu/courses/224123) for submitting coursework and other class activities.
 
 ### Learning Objectives
 
@@ -45,29 +45,29 @@ By the end of this course, students should be able to:
 | Feb 24 | Code Analysis and Metrics | [[HW3]] |
 | Feb 26 | [Workshop] Program Analysis | |
 | <tr><th colspan=3> 🎬 &nbsp;&nbsp;&nbsp; Demo &nbsp;&nbsp;&nbsp; 💯 </th></tr> |
-| Mar 03 | Project 1 Demo | [[HW4]] |
+| Mar 03 | Project 1 Demo | |
 | Mar 05 | Project 1 Demo | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
 | Mar 10 | SPRING BREAK | |
 | Mar 12 | SPRING BREAK | |
 | <tr><th colspan=3>🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr> |
-| Mar 17 | Maintenance | [[HW5]] |
+| Mar 17 | Maintenance | [[HW4]] |
 | Mar 19 | Project Workday | |
 | Mar 24 | Testing | |
 | Mar 26 | [Discussion] Maintenance and Testing | |
-| Mar 31 | [Workshop] Testing and Debugging |  |
-| <tr><th colspan=3>🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; </th></tr> |
-| Apr 02 | CI/CD and Deployment | |
-| Apr 07 | TBD/Guest Lecture | |
-| Apr 09 | [Discussion] CI/CD and Automated SE | |
-| <tr><th colspan=3>  🚀 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
-| Apr 14 | Project Workday (dcbrown travel) | |
+| Mar 31 | [Workshop] Testing and Debugging | [[HW5]] |
+| <tr><th colspan=3>🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp;  🔁 </th></tr> |
+| Apr 02 | CI/CD and Deployment |  |
+| Apr 07 | Guest Lecture/TBD | |
+| Apr 09 | [Discussion] CI/CD | |
+| <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
+| Apr 14 | [Workshop] Automated Software Engineering (dcbrown travel) | [[HW6]] |
 | Apr 16 | Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
 | Apr 23 | [Discussion] AI Writing Code | |
 | Apr 28 | [Workshop] Training LLMs |  |
-| Apr 30 | [Discussion] |  |
-| May 05  | Retrospective / Project Workday | [Project Final Report] |
+| Apr 30 | [Open Discussion] Future of SE Practice |  |
+| May 05 | Retrospective / Project Workday |  |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🎥 </th></tr> |
 | May 9  | Final Exam | |
 
