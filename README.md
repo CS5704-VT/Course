@@ -19,10 +19,10 @@ By the end of this course, students should be able to:
 
 ### Spring 2023 Course Info
 
-* **Lectures:** Tu/Th 5:00-6:15pm, Surge 103A
-* **Final Exam:** Sat May 6 7:00-9:00pm
+* **Lectures:** Tu/Th 12:30-1:45pm, PAT 215
+* **Final Exam:** Sat May 9 1:05-3:05pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 11am - 12pm
-* **TA:** Sean Gruber [smgruber@vt.edu], *Office hours:* Tu/Th, 3:45 - 4:45pm
+* **TA:** TBD, *Office hours:* Tu/Th, 3:45 - 4:45pm
 
 ## Schedule
 
@@ -31,45 +31,44 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Jan 17 | Introduction / Software Process | [[HW0]](HWs/HW0.md) |
-| Jan 19 | [[Workshop] Software Engineering Basics](https://docable.cloud/dcbrown/v/63bb2bbffa284edbde60b1f3) | |
-| Jan 24 | Software Process (cont.) / [Discussion] Software Engineers  | [[HW1]](HWs/HW1.md) |
-| <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements and Design &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
-| Jan 26 | Requirements | |
-| Jan 31 | Design | [[Project Group Formation]](https://canvas.vt.edu/courses/165661/assignments/1731888) |
-| Feb 2  | [Discussion] Requirements Analysis | |
-| Feb 7  | [Workshop] Technical Interviews / Project Workday | [[HW2]](https://canvas.vt.edu/courses/165661/assignments/1731891) |
-| Feb 9  | [Lightning Talks] 🌩️ | |
-| <tr><th colspan=3> 🚧 &nbsp;&nbsp;&nbsp; Implementation &nbsp;&nbsp;&nbsp; 🖥️ </th></tr> |
-| Feb 14 | [Discussion] Technical Interviews | [[Project Proposal]](Project/DESIGN.md) |
-| Feb 16 | Implementation | |
-| Feb 21 | Code Analysis | [[HW3]](HWs/HW3.md) |
-| Feb 23 | [Discussion] Code Reviews | |
-| Feb 28 | Guest Lecture | [[HW4]](https://canvas.vt.edu/courses/165661/assignments/1738079) |
-| Mar 2  | [[Workshop] Coding Environments](https://docable.cloud/api/share/dcbrown/v/6400226f15fc121fbd2230ea) | |
+| Jan 20 | Introduction / Software Development Lifecycle | [[HW0]](HWs/HW0.md) |
+| Jan 22 | SE Processes | |
+| Jan 27 | [Workshop] Engineering Basics | |
+| Jan 29 | Guest Lecture | |
+| <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements, Design, and Implementation &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
+| Feb 03 | Requirements Engineering | [[HW1]] |
+| Feb 05 | Project Workday | |
+| Feb 10 | Software Architecture and Design | [[HW2]] |
+| Feb 12 | UI Design and UX | |
+| Feb 17 | [Discussion] Requirements and Design |  |
+| Feb 19 | Project Management | |
+| Feb 24 | Code Analysis and Metrics | [[HW3]] |
+| Feb 26 | [Workshop] Program Analysis | |
+| <tr><th colspan=3> 🎬 &nbsp;&nbsp;&nbsp; Demo &nbsp;&nbsp;&nbsp; 💯 </th></tr> |
+| Mar 03 | Project 1 Demo | [[HW4]] |
+| Mar 05 | Project 1 Demo | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
-| Mar 7  | SPRING BREAK | |
-| Mar 9  | SPRING BREAK | |
-| <tr><th colspan=3>✅ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr>
-| Mar 14 | Testing | [[HW5]](https://canvas.vt.edu/courses/165661/assignments/1754177) |
-| Mar 16 | [Workshop] Advanced Testing | |
-| Mar 21 | Exam Review / Project Workday  | |
-| Mar 23 |  💯 Exam 💯  | |
-| Mar 28 | [Discussion] Software Testing | [Project Check-in] |
-| <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Special Topics in SE &nbsp;&nbsp;&nbsp; 👥</th></tr>
-| Mar 30 | [Discussion] Productivity | |
-| Apr 4  | [Discussion] Stack Overflow| [[HW6]](https://canvas.vt.edu/courses/165661/assignments/1763069) |
-| Apr 6  | [Discussion] Teamwork & Collaboration | |
-| <tr><th colspan=4> 🔍 &nbsp;&nbsp;&nbsp; Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
-| Apr 11 | Maintenance | [[HW7]](https://canvas.vt.edu/courses/165661/assignments/1767139) |
-| Apr 13 | [Discussion] Refactoring | |
-| Apr 18 | [Discussion] Debugging | [[HW8]](https://forms.gle/cSY55wUJMUxs5Sgr5) |
-| <tr><th colspan=4> 🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; 🔁 </th></tr> |
-| Apr 20 | Project Workday | |
-| Apr 25 | Deployment | [Project Report Abstract] |
-| Apr 27 | [Discussion] Automated Software Engineering |  |
-| May 2  | Retrospective | [Project Final Report] |
+| Mar 10 | SPRING BREAK | |
+| Mar 12 | SPRING BREAK | |
+| <tr><th colspan=3>🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr> |
+| Mar 17 | Maintenance | [[HW5]] |
+| Mar 19 | Project Workday | |
+| Mar 24 | Testing | |
+| Mar 26 | [Discussion] Maintenance and Testing | |
+| Mar 31 | [Workshop] Testing and Debugging |  |
+| <tr><th colspan=3>🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; </th></tr> |
+| Apr 02 | CI/CD and Deployment | |
+| Apr 07 | TBD/Guest Lecture | |
+| Apr 09 | [Discussion] CI/CD and Automated SE | |
+| <tr><th colspan=3>  🚀 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
+| Apr 14 | Project Workday (dcbrown travel) | |
+| Apr 16 | Project Workday (dcbrown travel) | |
+| Apr 21 | [Discussion] Humans Writing Code |  |
+| Apr 23 | [Discussion] AI Writing Code | |
+| Apr 28 | [Workshop] Training LLMs |  |
+| Apr 30 | [Discussion] |  |
+| May 05  | Retrospective / Project Workday | [Project Final Report] |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🎥 </th></tr> |
-| May 6  | Final Exam | |
+| May 9  | Final Exam | |
 
 
