@@ -36,13 +36,13 @@ By the end of this course, students should be able to:
 | Jan 27 | [Workshop] Engineering Basics | |
 | Jan 29 | Guest Lecture | |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements, Design, and Implementation &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
-| Feb 03 | Requirements Engineering | [[HW1]] |
-| Feb 05 | Project Workday | |
-| Feb 10 | Software Architecture and Design | [[HW2]] |
+| Feb 03 | Project Workday | [[HW1]] |
+| Feb 05 | Requirements Engineering | |
+| Feb 10 | Software Architecture and Design | |
 | Feb 12 | UI Design and UX | |
-| Feb 17 | [Discussion] Requirements and Design |  |
-| Feb 19 | Project Management | |
-| Feb 24 | Code Analysis and Metrics | [[HW3]] |
+| Feb 17 | Project Management | [[HW2]]  |
+| Feb 19 | Guest Lecture/TBD | |
+| Feb 24 | Code Analysis and Metrics |  |
 | Feb 26 | [Workshop] Program Analysis | |
 | <tr><th colspan=3> 🎬 &nbsp;&nbsp;&nbsp; Demo &nbsp;&nbsp;&nbsp; 💯 </th></tr> |
 | Mar 03 | Project 1 Demo | |
@@ -51,24 +51,24 @@ By the end of this course, students should be able to:
 | Mar 10 | SPRING BREAK | |
 | Mar 12 | SPRING BREAK | |
 | <tr><th colspan=3>🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr> |
-| Mar 17 | Maintenance | [[HW4]] |
+| Mar 17 | Maintenance | [[HW3]] |
 | Mar 19 | Project Workday | |
 | Mar 24 | Testing | |
 | Mar 26 | [Discussion] Maintenance and Testing | |
-| Mar 31 | [Workshop] Testing and Debugging | [[HW5]] |
+| Mar 31 | [Workshop] Testing and Debugging | [[HW4]] |
 | <tr><th colspan=3>🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp;  🔁 </th></tr> |
 | Apr 02 | CI/CD and Deployment |  |
-| Apr 07 | Guest Lecture/TBD | |
+| Apr 07 | Guest Lecture | |
 | Apr 09 | [Discussion] CI/CD | |
 | <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
-| Apr 14 | [Workshop] Automated Software Engineering (dcbrown travel) | [[HW6]] |
+| Apr 14 | [Workshop] Automated Software Engineering (dcbrown travel) | [[HW5]] |
 | Apr 16 | Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
-| Apr 23 | [Discussion] AI Writing Code | |
+| Apr 23 | [Discussion] AI Writing Code | [[HW5]] |
 | Apr 28 | [Workshop] Training LLMs |  |
-| Apr 30 | [Open Discussion] Future of SE Practice |  |
+| Apr 30 | [Discussion] Future of SE Practice |  |
 | May 05 | Retrospective / Project Workday |  |
-| <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🎥 </th></tr> |
+| <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 📝 </th></tr> |
 | May 9  | Final Exam | |
 
 

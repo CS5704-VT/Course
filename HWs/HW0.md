@@ -8,41 +8,30 @@ This homework will help you with some setup and preparation for the course.
 
 - [ ] Based on the syllabus and first lecture, fill out this [syllabus survey](https://docs.google.com/forms/d/e/1FAIpQLSe21UdpR4YSbNzI1rKE9_5aa7WF_2NlBK0PLTorHGw2atlb4A/viewform?usp=sf_link) with any questions, confusions, or concerns you still have about the course this semester.
 
-## Slack
+## Mattermost
 
-The primary mode of communication for the course this semester will be Slack. Communication is essential in software engineering and the majority of development teams use some form of IM or messaging system. Slack is one example of these types of platforms, and we will use Slack to provide course updates, answer questions, form project groups, and other course activities. You may download the free version of the Slack desktop application at [https://slack.com/downloads/](https://slack.com/downloads/) or use it online from your preferred web browser. To sign up for the Slack workspace for this course, visit the invite link [here](https://join.slack.com/t/cs5704spring2023/shared_invite/zt-1n2rwbvn4-JS0Krhl1cHQvvOb6Ist~Cg). If you have problems or are unable to join via the link, contact the instructor.
+The primary mode of communication for the course this semester will be [Mattermost]. Communication is essential in software engineering and the majority of development teams use some form of IM or messaging system. Mattermost is one example of these types of platforms, and we will use it in class to provide course updates, answer questions, form project groups, and other course activities. You may download the free version of the Mattermost desktop application at [https://mattermost.com/apps/](https://mattermost.com/apps/) or use it online from your preferred web browser [https://meet.cs.vt.edu/cs5704](https://meet.cs.vt.edu/cs5704). To sign up for the workspace for this course, visit the invite link [here](https://meet.cs.vt.edu/signup_user_complete/?id=nodhjko8hfyj5d5cismchhu6dw&md=link&sbr=su). This platform is hosted on a server through the CS department, and will require your CS@VT login credentials (use the Sign-In with GitLab option). If you have problems or are unable to join via the link, please contact the instructor.
 
-### Profile
+### Introduction
 
-**TODO:** Use the following guidelines to create your Slack profile to help the teaching staff and fellow classmates learn your name:
-- [ ] Set your full name to be your first and last name. Your display name should be your first name (or name you prefer to go by).
-- [ ] Upload a recent photo of yourself (professional headshot or one that meets [passport photo guidelines](https://travel.state.gov/content/travel/en/passports.html/pptphotoreq/photocomptemplate/photocomptemplate_5297.html)) for your profile photo.
-
-Good example ✅: <img src="../resources/imgs/good_profile.png" width="250"/>
-
-Bad example ❌: <img src="../resources/imgs/bad_profile.png" width="250"/>
-
-### Introductions
-
-**TODO:** To further help us all get to know each other, please introduce yourself. After your profile has been created, write a brief paragraph in the #general channel of the CS5704 [Spring 2023] Slack that contains the following information:
+**TODO:** To further help us all get to know each other, please introduce yourself. Write a brief paragraph in the #Town Square channel of the CS5704 Mattermost that contains the following information:
 - [ ] Name
 - [ ] Where are you from?
 - [ ] Do you have any previous software engineering experience? If so, where did you work and for how long?
 - [ ] What do you hope to get out of this course?
 
-## Version Control
+## Software Configuration
 
-[Git](https://git-scm.com/) is the version control system we will be using for this course. You may download the git client to your system [here](https://git-scm.com/downloads). Additionally, [GitHub](https://github.com/) and [GitLab](https://about.gitlab.com/) are two popular cloud-based hosting services for Git.
+opunit is a simple tool to verify your machine is correctly setup for a course, workshop, or homework assignment. More details are available [here](https://github.com/ottomatica/opunit). You can install opunit using the following command:
 
-**TODO: For this class, you will need access to GitHub for class activities and collaborating on your team project..** 
+```npm install ottomatica/opunit -g```
 
-- [ ] If you do not have one already, create a GitHub account at [https://github.com/](https://github.com/).
+For this class, you will need the following applications to be installed on your system.
 
-## SE Basics Workshop
+* [Git](https://git-scm.com/) is the version control system we will be using in this course for class activities and collaborating on your team project. You may download the git client to your system [here](https://git-scm.com/downloads). Additionally, you will need a [GitHub](https://github.com/) account.
+* [Docker]
 
-**TODO:** If you do not complete the Software Engineering Basics [workshop](https://docable.cloud/CS5704-VT/Workshops/Basics/README.md) in class on Thursday, finish it as part of HW0. 
+**TODO:** Run the following command below to verify the configuration of your laptop for this course. Upload a screenshot of the resulting output. All checks should pass.
 
-- [ ] Submit your completed workshop materials to the [Canvas assignment](https://canvas.vt.edu/courses/165661/assignments/1701310).
-
-
-**Due:** Friday (1/20) at 11:59pm
+```opunit profile chbrown13/profile:5704.yml````
+**Due:** Friday (1/23) at 11:59pm
