@@ -30,7 +30,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Jan 20 | Introduction / Software Development Lifecycle | [[HW0]](HWs/HW0.md) |
+| Jan 20 | [Introduction / SDLC](https://docs.google.com/presentation/d/1qntsNNmVNn6RCnA8ZrLDHzRnJ5gHSiqVhYLHAWD715I/edit?usp=sharing) | [[HW0]](HWs/HW0.md) |
 | Jan 22 | SE Processes | |
 | Jan 27 | [Workshop] Engineering Basics | |
 | Jan 29 | Guest Lecture | |
