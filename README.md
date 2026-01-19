@@ -22,7 +22,6 @@ By the end of this course, students should be able to:
 * **Lectures:** Tu/Th 12:30-1:45pm, PAT 215
 * **Final Exam:** Sat May 9 1:05-3:05pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* M/W, 11am - 12pm
-* **TA:** TBD, *Office hours:* Tu/Th, 3:45 - 4:45pm
 
 ## Schedule
 
