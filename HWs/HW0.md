@@ -31,7 +31,7 @@ opunit is a simple tool to verify your machine is correctly setup for a course, 
 For this course, you are required to install the following software on your system. These tools will be used throughout the semester for assignments, workshops, and team projects.
 
 * [Git](https://git-scm.com/) is the version control system we will be using in this course for class activities and collaborating on your team project. You may download the git client to your system [here](https://git-scm.com/downloads). Additionally, you will need a [GitHub](https://github.com/) account. After installation, [configure git](https://git-scm.com/book/ms/v2/Getting-Started-First-Time-Git-Setup) with the email address associated with your GitHub account.
-* [Docker](https://www.docker.com/) provides containerized environments to accelerate development and deployment of software systems. Several class activities will leverage Docker.
+* [Docker](https://www.docker.com/) provides containerized environments to accelerate development and deployment of software systems. Several class activities will leverage Docker, including the in-class workshop on 1/27. You will also need [Docker Compose](https://docs.docker.com/compose/) and the [Docker Labspaces extension](https://hub.docker.com/extensions/dockersamples/labspace-extension).
 
 Additional software that will be used in class later this semester but are not included in this check are below:
 
