@@ -44,4 +44,6 @@ This list represents the baseline software required for the course. Additional t
 
 ```opunit profile chbrown13/profile:5704.yml```
 
+- [ ] Upload screenshot of successful configuration to [Canvas](https://canvas.vt.edu/courses/224123/assignments/2638906)
+
 **Due:** Friday (1/30) at 11:59pm
