@@ -35,7 +35,7 @@ By the end of this course, students should be able to:
 | Jan 27 | [Workshop] Engineering Basics | |
 | Jan 29 | Guest Lecture | |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements, Design, and Implementation &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
-| Feb 03 | Project Workday | [[HW1]] |
+| Feb 03 | Project Workday | [[HW1]](https://canvas.vt.edu/courses/224123/assignments/2638907?module_item_id=3963992) |
 | Feb 05 | Requirements Engineering | |
 | Feb 10 | Software Architecture and Design | |
 | Feb 12 | UI Design and UX | |
