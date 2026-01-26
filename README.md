@@ -39,12 +39,12 @@ By the end of this course, students should be able to:
 | Feb 05 | Requirements Engineering | |
 | Feb 10 | Software Architecture and Design | |
 | Feb 12 | UI Design and UX | |
-| Feb 17 | Project Management | [[HW2]]  |
-| Feb 19 | Guest Lecture/TBD | |
+| Feb 17 | [Workshop] TBD | [[HW2]]  |
+| Feb 19 | Guest Lecture | |
 | Feb 24 | Code Analysis and Metrics |  |
 | Feb 26 | [Workshop] Program Analysis | |
 | <tr><th colspan=3> 🎬 &nbsp;&nbsp;&nbsp; Demo &nbsp;&nbsp;&nbsp; 💯 </th></tr> |
-| Mar 03 | Project 1 Demo | |
+| Mar 03 | Project Workday | |
 | Mar 05 | Project 1 Demo | |
 | <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
 | Mar 10 | SPRING BREAK | |
@@ -60,7 +60,7 @@ By the end of this course, students should be able to:
 | Apr 07 | Guest Lecture | |
 | Apr 09 | [Discussion] CI/CD | |
 | <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
-| Apr 14 | [Workshop] Automated Software Engineering (dcbrown travel) | [[HW5]] |
+| Apr 14 | [Workshop] TBD (dcbrown travel) | [[HW5]] |
 | Apr 16 | Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
 | Apr 23 | [Discussion] AI Writing Code | [[HW5]] |

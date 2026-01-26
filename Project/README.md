@@ -1,1 +1,1 @@
-There will be two projects for class this semester. Details about Project 1 will be announced soon.
+There will be two projects for class this semester. Please find the details for Project 1 [here](./Project1/README.md).
