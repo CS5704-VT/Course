@@ -31,7 +31,7 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Jan 20 | [Introduction / SDLC](https://docs.google.com/presentation/d/1qntsNNmVNn6RCnA8ZrLDHzRnJ5gHSiqVhYLHAWD715I/edit?usp=sharing) | [[HW0]](HWs/HW0.md) |
-| Jan 22 | SE Processes | |
+| Jan 22 | [[SE Processes]](https://docs.google.com/presentation/d/1YfEo7L61yv6zoYSqKCplmGkQ_7HxRfVK0pTuS3ESCB0/edit?usp=sharing) | |
 | Jan 27 | [Workshop] Engineering Basics | |
 | Jan 29 | Guest Lecture | |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements, Design, and Implementation &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
