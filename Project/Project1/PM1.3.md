@@ -11,15 +11,17 @@ Your group must give a _10_ minute oral presentation about your project. This sh
 
 ### __Final Report__ (9%)
 
-The final report provides a formal overview of your project and the items completed. The report must be no more than 10 pages (including references) and follow the International Conference on Software Engineering (ICSE) formatting guidelines (see the [MS Word](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx), [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) templates). The final project report must contain the following:
+The final report provides a formal overview of your project and the items completed. The report must be no more than 10 pages and follow the International Conference on Software Engineering (ICSE) formatting guidelines (see the [MS Word](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx), [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) templates). The final project report must contain the following:
     *  a relevant _title_ and all group members listed as _authors_;
     *  the _abstract_ providing a paragraph overview of the project;
     *  an updated _introduction_  to define the problem and motivate the project solution;
     *  a _motivating example_ to provide a scenario of how your project would be used and why it is relevant to the problem you tried to solve;
     *  a _background_ to define any key terms or concepts related to your work (if applicable);
     *  an updated _related work_ citing relevant work and tools, including the novelty of your project; 
+    *  a section providing insights on the _requirements elicitation results_, outlining how they motivated your solution;
+    *  a section providing details on the _usability study_, explaining what you learned and how it impacted the system design;
     *  a description of the _implementation_ design decisions, processes, and testing approach;
-    *  a section reflecting on the _use of AI_: including why you did or did not use it, tools used, challenges faced, things AI did well and didn't do well, etc.;
+    *  a section reflecting on the _use of AI_: including why you did or did not use it, how it was used, which AI tools were used, challenges faced, things AI did well and didn't do well, etc.;
     *  a _discussion_ explaining possible opportunities for future extensions and limitations of your project;  
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ (required to include).

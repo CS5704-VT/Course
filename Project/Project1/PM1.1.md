@@ -13,7 +13,7 @@ To formalize your project, your team must submit a brief document outlining the 
 
 ### __Requirements Elicitation__
 
-Requirements Elicitation is the process of discovering requirements for your system. There are numerous ways to elicit requirements for software products. We will discuss several examples in class. You must select one requirements elicitation technique and collect insights on requirements for your project idea from at least _10_ other individuals outside of your group, ideally target users of your product. Documentation of your requirements elicitation technique (i.e., survey questions and responses, interview questions, etc.) and responses must be submitted with PM1.1.
+Requirements Elicitation is the process of discovering requirements for your system. There are numerous ways to elicit requirements for software products. We will discuss several examples in class. You must select one requirements elicitation technique and collect insights on requirements for your project idea from at least _10_ other individuals outside of your group, ideally target users of your product. Documentation of your requirements elicitation technique (i.e., survey questions and responses, interview questions, etc.) and raw responses must be submitted with PM1.1. A more detailed and critical analysis of the results will be submitted with the final report.
 
 ### Requirements Analysis
 
