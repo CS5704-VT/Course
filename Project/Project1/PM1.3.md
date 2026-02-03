@@ -5,14 +5,14 @@ This project milestone will focus on the final submissions of your project.
 
 ### __Lightning Talk__ (9%)
 
-Your group must give a _10_ minute oral presentation about your project. This should be considered a pitch as if you were demoing your project to investors. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, requirements elicitation results (i.e., what your market base says), a demo your project, a discussion on limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on March 3rd. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
+Each project must give a _10_ minute oral presentation. This should be considered a pitch as if you were demoing your project to investors. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, requirements elicitation results (i.e., what your market base says), a demo your project, a discussion on limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on March 3rd. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
   
 **Rubric: TBD**
 
 ### __Final Report__ (9%)
 
 The final report provides a formal overview of your project and the items completed. The report must be no more than 10 pages and follow the International Conference on Software Engineering (ICSE) formatting guidelines (see the [MS Word](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx), [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) templates). The final project report must contain the following:
-    *  a relevant _title_ and all group members listed as _authors_;
+    *  a relevant _title_ and all team members listed as _authors_;
     *  the _abstract_ providing a paragraph overview of the project;
     *  an updated _introduction_  to define the problem and motivate the project solution;
     *  a _motivating example_ to provide a scenario of how your project would be used and why it is relevant to the problem you tried to solve;
