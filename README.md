@@ -36,10 +36,10 @@ By the end of this course, students should be able to:
 | Jan 29 | [Workshop] [Engineering Basics](https://github.com/chbrown13/labspace-se-basics) | |
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements, Design, and Implementation &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Feb 03 | Project Workday | [[HW1]](https://canvas.vt.edu/courses/224123/assignments/2638907?module_item_id=3963992) |
-| Feb 05 | Requirements Engineering | |
+| Feb 05 | [Requirements Engineering](https://docs.google.com/presentation/d/1JnzqXVqa9M5XM8txK4SjZWOsfPMiDj-hy4q3Er2-uDk/edit?usp=sharing) | |
 | Feb 10 | Software Architecture and Design | |
-| Feb 12 | UI Design and UX | |
-| Feb 17 | [Workshop] TBD | [[HW2]]  |
+| Feb 12 | Guest Lecture | |
+| Feb 17 | UI Design and UX | [[HW2]]  |
 | Feb 19 | Guest Lecture | |
 | Feb 24 | Code Analysis and Metrics |  |
 | Feb 26 | [Workshop] Program Analysis | |
