@@ -33,4 +33,4 @@ Based on the results of your requirements elicitation, goals for your project, a
 
 2. For each user story mentioned above, estimate the amount of effort needed to complete relevant subtasks using function points. Explain your answer.
 
- **Due:** September 26 at 11:59pm (one document or separate well-labeled documents)
+ **Due:** February 13 at 11:59pm (one document or separate well-labeled documents)
