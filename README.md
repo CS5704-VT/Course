@@ -37,9 +37,9 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3>  📝 &nbsp;&nbsp;&nbsp; Requirements, Design, and Implementation &nbsp;&nbsp;&nbsp; 🎨 </th></tr> |
 | Feb 03 | Project Workday | [[HW1]](https://canvas.vt.edu/courses/224123/assignments/2638907?module_item_id=3963992) |
 | Feb 05 | [Requirements Engineering](https://docs.google.com/presentation/d/1JnzqXVqa9M5XM8txK4SjZWOsfPMiDj-hy4q3Er2-uDk/edit?usp=sharing) | |
-| Feb 10 | Software Architecture and Design | |
+| Feb 10 | [Software Architecture and Design](https://docs.google.com/presentation/d/1-4buLoyk1gVxVxJgGRuMPTMGaCPYRdt9buibLfpvtQg/edit?usp=sharing) | |
 | Feb 12 | Guest Lecture | |
-| Feb 17 | UI Design and UX | [[HW2]]  |
+| Feb 17 | UI Design and UX | [[HW2]](https://canvas.vt.edu/courses/224123/assignments/2641971)  |
 | Feb 19 | Guest Lecture | |
 | Feb 24 | Code Analysis and Metrics |  |
 | Feb 26 | [Workshop] Program Analysis | |
