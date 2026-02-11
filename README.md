@@ -65,7 +65,7 @@ By the end of this course, students should be able to:
 | Apr 21 | [Discussion] Humans Writing Code |  |
 | Apr 23 | [Discussion] AI Writing Code | [[HW5]] |
 | Apr 28 | [Workshop] Training LLMs |  |
-| Apr 30 | [Discussion] Future of SE Practice |  |
+| Apr 30 | Guest Lecture |  |
 | May 05 | Retrospective / Project Workday |  |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 📝 </th></tr> |
 | May 9  | Final Exam | |
