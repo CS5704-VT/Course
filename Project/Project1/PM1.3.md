@@ -5,7 +5,7 @@ This project milestone will focus on the final submissions of your project.
 
 ### __Lightning Talk__
 
-Each project must give a _10_ minute oral presentation. This should be considered a pitch as if you were demoing your project to investors. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, requirements elicitation results (i.e., what your market base says), a demo your project, a discussion on limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on March 3rd. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
+Each project must give a _8_ minute oral presentation. This should be considered a pitch as if you were demoing your project to investors. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, requirements elicitation results (i.e., what your market base says), a demo your project, a discussion on limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on March 3rd. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
   
 **Rubric: TBD**
 
