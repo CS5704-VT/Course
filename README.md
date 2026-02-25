@@ -41,7 +41,7 @@ By the end of this course, students should be able to:
 | Feb 12 | Guest Lecture | |
 | Feb 17 | [UI Design and UX](https://docs.google.com/presentation/d/1J4CuBKR5OMftVP2Pmz9PJ82kg1oVUC6LCdTDBAHw9tQ/edit?usp=sharing) | [[HW2]](https://canvas.vt.edu/courses/224123/assignments/2641971)  |
 | Feb 19 | Guest Lecture | |
-| Feb 24 | Code Analysis and Metrics |  |
+| Feb 24 | [Code Analysis and Metrics](https://docs.google.com/presentation/d/1uxuLUav84gPX4ZCTx1LqWkHLmlrMKPyAjGDGqnld1yY/edit?usp=sharing) |  |
 | Feb 26 | [Workshop] Program Analysis | |
 | <tr><th colspan=3> 🎬 &nbsp;&nbsp;&nbsp; Demo &nbsp;&nbsp;&nbsp; 💯 </th></tr> |
 | Mar 03 | Project Workday | |

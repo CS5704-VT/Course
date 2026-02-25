@@ -5,9 +5,9 @@ This project milestone will focus on the final submissions of your project.
 
 ### __Lightning Talk__
 
-Each project must give a _8_ minute oral presentation. This should be considered a pitch as if you were demoing your project to investors. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, requirements elicitation results (i.e., what your market base says), a demo your project, a discussion on limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on March 3rd. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
+Each project must give an **_8_** minute oral presentation. This should be considered a pitch as if you were demoing your project to investors. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, requirements elicitation results (i.e., what your market base says), a demo your project, a discussion on limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on March 3rd. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
   
-**Rubric: TBD**
+**Rubric: [Project 1 Demo](https://docs.google.com/spreadsheets/d/1hhcaJ_S4laBO8x4BnHjn-jp597eAvrk1qe0yfNFPnXs/edit?usp=sharing)**
 
 ### __Final Report__
 
@@ -27,7 +27,7 @@ The final report provides a formal overview of your project and the items comple
 *  a _conclusion_ revisiting the problem statement and project work completed;
 *  and _references_ (required to include).
     
-**Rubric: TBD**
+**Rubric: [Project 1 Report](https://docs.google.com/spreadsheets/d/1QCwH36DuzK58zgI4_x_etLyRUPqVhk1MjEMAJRJa_FQ/edit?usp=sharing)**
 
 ### __Repository Requirements__
 
