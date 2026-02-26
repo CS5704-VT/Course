@@ -63,7 +63,7 @@ By the end of this course, students should be able to:
 | Apr 14 | [Workshop] TBD (dcbrown travel) | [[HW5]] |
 | Apr 16 | Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
-| Apr 23 | [Discussion] AI Writing Code | [[HW5]] |
+| Apr 23 | [Discussion] AI Writing Code | [[HW6]] |
 | Apr 28 | [Workshop] Training LLMs |  |
 | Apr 30 | Guest Lecture |  |
 | May 05 | Retrospective / Project Workday |  |
