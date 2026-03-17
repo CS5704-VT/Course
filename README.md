@@ -50,7 +50,7 @@ By the end of this course, students should be able to:
 | Mar 10 | SPRING BREAK | |
 | Mar 12 | SPRING BREAK | |
 | <tr><th colspan=3>🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr> |
-| Mar 17 | Maintenance | [[HW3]] |
+| Mar 17 | [Maintenance](https://docs.google.com/presentation/d/1rDG7SKA8ef2hVgjJ0iWcZUcGAwQlVBl1evGcmkyOhio/edit?usp=sharing) | [[HW3]] |
 | Mar 19 | Project Workday | |
 | Mar 24 | Testing | |
 | Mar 26 | [Discussion] Maintenance and Testing | |
@@ -68,6 +68,6 @@ By the end of this course, students should be able to:
 | Apr 30 | Guest Lecture |  |
 | May 05 | Retrospective / Project Workday |  |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 📝 </th></tr> |
-| May 9  | Final Exam | |
+| May 9  | Final Demos and Exam | |
 
 
