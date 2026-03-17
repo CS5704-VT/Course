@@ -17,7 +17,7 @@ By the end of this course, students should be able to:
 * Discuss research questions and studies related to software engineering
 * Communicate (via demo and writing) details about a developed software application
 
-### Spring 2023 Course Info
+### Spring 2026 Course Info
 
 * **Lectures:** Tu/Th 12:30-1:45pm, PAT 215
 * **Final Exam:** Sat May 9 1:05-3:05pm
@@ -63,7 +63,7 @@ By the end of this course, students should be able to:
 | Apr 14 | [Workshop] TBD (dcbrown travel) | [[HW5]] |
 | Apr 16 | Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
-| Apr 23 | [Discussion] AI Writing Code | [[HW5]] |
+| Apr 23 | [Discussion] AI Writing Code | [[HW6]] |
 | Apr 28 | [Workshop] Training LLMs |  |
 | Apr 30 | Guest Lecture |  |
 | May 05 | Retrospective / Project Workday |  |
