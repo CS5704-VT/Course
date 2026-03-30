@@ -50,11 +50,11 @@ By the end of this course, students should be able to:
 | Mar 10 | SPRING BREAK | |
 | Mar 12 | SPRING BREAK | |
 | <tr><th colspan=3>🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪</th></tr> |
-| Mar 17 | [Maintenance](https://docs.google.com/presentation/d/1rDG7SKA8ef2hVgjJ0iWcZUcGAwQlVBl1evGcmkyOhio/edit?usp=sharing) | [[HW3]] |
+| Mar 17 | [Maintenance](https://docs.google.com/presentation/d/1rDG7SKA8ef2hVgjJ0iWcZUcGAwQlVBl1evGcmkyOhio/edit?usp=sharing) | [[HW3]](https://canvas.vt.edu/courses/224123/assignments/2641973) |
 | Mar 19 | Project Workday | |
 | Mar 24 | [Testing](https://docs.google.com/presentation/d/1gpOa0Vbql_ghgqqFLEUQX2Z5w12Rl3ESNfSDrnWgigg/edit?usp=sharing) | |
 | Mar 26 | [Discussion] Maintenance and Testing | |
-| Mar 31 | [Workshop] Testing and Debugging | [[HW4]] |
+| Mar 31 | [Workshop] Testing and Debugging | [[HW4]](https://canvas.vt.edu/courses/224123/assignments/2641979/) |
 | <tr><th colspan=3>🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp;  🔁 </th></tr> |
 | Apr 02 | CI/CD and Deployment |  |
 | Apr 07 | Guest Lecture | |
