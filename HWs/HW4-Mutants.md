@@ -17,7 +17,7 @@ Mutation testing is a form of whitebox testing that involves modifying the progr
 
 Occasionally, mutations may not actually change the behavior of the program, which is known as _equivalent mutants_. An example of a mutant replacing a boolean operator is below:
 
-![mutations](resources/imgs/mutants.png)
+![mutations](https://github.com/CS5704-VT/Workshops/blob/8c0d244a9f63104b23ce225da039c68814beb4cb/Testing/resources/imgs/mutant.png?raw=true)
 
 This process is also useful for evaluating tests, as existing test cases should fail when mutants are introduced into the program. This is called _killing_ the mutant. Test suites are measured by the percentage of mutants that they kill. _Strong_ mutation coverage ensures that: 1) the mutant is reached; 2) the program state has changed; and 3) the incorrect program state causes tests to fail. Mutation testing requires much more computing power, however strong mutation coverage is a powerful metric for ensuring your program works properly and is well tested. 
 
