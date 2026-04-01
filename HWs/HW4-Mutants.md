@@ -1,7 +1,3 @@
-# Advanced Testing
-
-As software projects become more complex, testing has also become more complex. A large number of white box test cases is great for assessing the application code and validating the program behavior, however can provide some disadvantages such as being more difficult to maintain and update---and more tests take longer to run which takes up more time. Thus, more recently advanced testing techniques have been introduced to ease the detriments of adding more tests. One example of a modern advanced testing technique is _mutation testing_.
-
 ## Mutation Testing
 
 Mutation testing is a form of whitebox testing that involves modifying the program in small ways. Each changed version of the code is called a _mutant_, which causes the behavior of the original version to differ from the mutant version, and tests should be able to detect and reject mutants.
