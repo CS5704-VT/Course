@@ -56,7 +56,7 @@ By the end of this course, students should be able to:
 | Mar 26 | [Discussion] Maintenance and Testing | |
 | Mar 31 | [Workshop] Testing and Debugging | [[HW4]](https://canvas.vt.edu/courses/224123/assignments/2641979/) |
 | <tr><th colspan=3>🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp;  🔁 </th></tr> |
-| Apr 02 | CI/CD and Deployment |  |
+| Apr 02 | [CI/CD and Deployment](https://docs.google.com/presentation/d/1PQHtQlZhsMoszQ3vCTTpwUkHrpWLTQYJKI1UBtkf4FI/edit?usp=sharing) |  |
 | Apr 07 | Guest Lecture | |
 | Apr 09 | [Discussion] CI/CD | |
 | <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
