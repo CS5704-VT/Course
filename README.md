@@ -57,11 +57,11 @@ By the end of this course, students should be able to:
 | Mar 31 | [Workshop] Testing and Debugging | [[HW4]](https://canvas.vt.edu/courses/224123/assignments/2641979/) |
 | <tr><th colspan=3>🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp;  🔁 </th></tr> |
 | Apr 02 | [CI/CD and Deployment](https://docs.google.com/presentation/d/1PQHtQlZhsMoszQ3vCTTpwUkHrpWLTQYJKI1UBtkf4FI/edit?usp=sharing) |  |
-| Apr 07 | Guest Lecture | |
+| Apr 07 |  Project Workday | |
 | Apr 09 | [Discussion] CI/CD | |
 | <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
-| Apr 14 | [Workshop] TBD (dcbrown travel) | [[HW5]] |
-| Apr 16 | Project Workday (dcbrown travel) | |
+| Apr 14 | Guest Lecture (dcbrown travel) | [[HW5]] |
+| Apr 16 | Workshop/Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
 | Apr 23 | [Discussion] AI Writing Code | [[HW6]] |
 | Apr 28 | [Workshop] Training LLMs |  |
