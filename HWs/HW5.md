@@ -22,7 +22,7 @@ For this assignment, you will design a research study to investigate one or more
 
 **Due:** Wednesday, Apr 22 at 11:59pm
 
----
+
 [^1]: He, H., Miller, C., Agarwal, S., Kästner, C., & Vasilescu, B. (2025). Speed at the Cost of Quality: How Cursor AI Increases Short-Term Velocity and Long-Term Complexity in Open-Source Projects. arXiv preprint [arXiv:2511.04427](https://arxiv.org/pdf/2511.04427).
 
 [^2]: Shen, J. H., & Tamkin, A. (2026). How AI impacts skill formation. arXiv preprint [arXiv:2601.20245](https://arxiv.org/abs/2601.20245).

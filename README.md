@@ -60,7 +60,7 @@ By the end of this course, students should be able to:
 | Apr 07 |  Project Workday | |
 | Apr 09 | [Discussion] CI/CD | |
 | <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀</th></tr>
-| Apr 14 | Guest Lecture (dcbrown travel) | [[HW5]] |
+| Apr 14 | Guest Lecture (dcbrown travel) | [[HW5]](HWs/HW5.md) |
 | Apr 16 | Workshop/Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
 | Apr 23 | [Discussion] AI Writing Code | [[HW6]] |
