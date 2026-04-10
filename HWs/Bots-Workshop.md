@@ -19,6 +19,7 @@ Using what you learned from the initial incoming webhook creation, create a Matt
 _Reflection:_ After completing the Mattermost Bot, as a group discuss the advantages and disadvantages of this type of bot and whether or not it would benefit your development workflow. Based on this discussion, you can decide whether to keep the bot or not after this assignment is submitted.
 
 **Submission**: The workshop submission should include: (1) an individual reflection as a Mattermost bot message from each student (this will be checked in Mattermost); (2) a webhook to in your project team GitHub repository for Project 2 (this will be checked on GitHub); (3) a team reflection on the implemented bot with _insights from each team member_ and including a screenshot of the bot providing the relevant information in your team Mattermost channel (upload on Canvas).
+
 **Due:** Friday, April 17 at 11:59pm
 
 [^1]: Bin Lin, Alexey Zagalsky, Margaret-Anne Storey, and Alexander Serebrenik. 2016. Why Developers Are Slacking Off: Understanding How Software Teams Use Slack. In Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion (CSCW '16 Companion). Association for Computing Machinery, New York, NY, USA, 333–336. https://doi.org/10.1145/2818052.2869117
