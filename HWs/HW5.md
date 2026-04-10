@@ -4,7 +4,7 @@ Artificial intelligence (AI) tools are reshaping how software is written, review
 
 For this assignment, you will design a research study to investigate one or more impacts of AI tools on software engineering practice. You will not conduct the study, but will devise a plan for an investigation that you would be potentially interested in carrying out. Your plan should meet the following criteria:
 
-**Section 1: Research Question(s) and Motivation.** PRovide **at least one** research question (RQ) that your study will investigate. Insights on creating a research question are available here. In addition, write a brief motivation explaining why the question(s) is/are relevant to software engineering in practice. 
+**Section 1: Research Question(s) and Motivation.** Provide **at least one** research question (RQ) that your study will investigate. Insights on creating a research question are available here. In addition, write a brief motivation explaining why the question(s) is/are relevant to software engineering in practice. 
 
 **Section 2: Study Context.** Describe the specific context in which your study would take place. Potential topics may include:
 
