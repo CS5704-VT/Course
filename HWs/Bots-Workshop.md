@@ -1,3 +1,5 @@
+# Bots Workshop
+
 In modern fast-paced software development, automation plays a crucial role in enhancing team collaboration and efficiency. Development bots, particularly those integrated within communication platforms like Slack and Mattermost, facilitate real-time updates, notifications, and interactions that streamline workflows. For instance, prior work shows the primary reason developers use Slack is for development and deployment support.[^1] By automating routine tasks and sharing critical information seamlessly, these bots enable teams to focus on higher priority tasks and reduce manual efforts. For this assignment, you will create your own Mattermost bot that integrates with your Project 2 Continuous Integration/Continuous Deployment (CI/CD) pipeline.
 
 ## Initial Activity
