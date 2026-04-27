@@ -63,7 +63,7 @@ By the end of this course, students should be able to:
 | Apr 14 | Guest Lecture (dcbrown travel) | [[HW5]](HWs/HW5.md) |
 | Apr 16 | Workshop/Project Workday (dcbrown travel) | |
 | Apr 21 | [Discussion] Humans Writing Code |  |
-| Apr 23 | [Discussion] AI Writing Code | [[HW6]] |
+| Apr 23 | [Discussion] AI Writing Code | [[HW6]](https://canvas.vt.edu/courses/224123/assignments/2641983) |
 | Apr 28 | [Workshop] Training LLMs / Exam Review |  |
 | Apr 30 | Guest Lecture |  |
 | May 05 | Retrospective / Project Workday |  |
