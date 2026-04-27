@@ -7,7 +7,7 @@ This project milestone will focus on the final submissions of your project.
 
 Each project must give an **_10_** minute oral presentation, and up to two minutes for Q&A. The presentation must include the original problem and solution, an explanation of the enhancements made and why, a demo your project, a discussion limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on May 9th. The order of talks will be randomly selected immediately before class. Please be on time.
   
-**Rubric: TBD**
+**[Rubric](https://docs.google.com/spreadsheets/d/1dz0ooCYzdCvBeTAN8xG9PgEJLS0-XybZHySdgbnvGc0/edit?usp=sharing)**
 
 ### __Final Report__
 
@@ -24,7 +24,7 @@ The final report provides a formal overview of your project and the items comple
 *  a _conclusion_ revisiting the problem statement and project work completed;
 *  and _references_ (required to include).
     
-**Rubric: TBD**
+**[Rubric](https://docs.google.com/spreadsheets/d/1v5ukQnZZDuc50eS3JF71sAHN9mz63Csg1gXM8kL8RQQ/edit?usp=sharing)**
 
 
 ### __Retrospective__
